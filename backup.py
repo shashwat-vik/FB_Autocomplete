@@ -108,7 +108,9 @@ class processGraph(Extra):
         print '\t || NEW : ',resp.encode('ascii',errors='ignore')
 
         if website == self.website_parser(resp):
+            print '\tWEBSITE MATCHED ***'
             return True
+        print '\tNO WEBSITE MATCHED'
         return False
 
     def match_phone_nos(self,phones,resp):
@@ -140,15 +142,14 @@ class processGraph(Extra):
         print '\tNO PHONE MATCHED'
         return False
 
-    def analyze_prediction(self,row,state,query,allow_website_match):
-        print '\tQUERY : ',query
-        probable = False
-        city,pin=row['City'].lower(),row['Pincode']
+    def searchPlace(self,row,state):
+        global probable_count
+        name,city,pin=row['Name'],row['City'].lower(),row['Pincode']
+        city=unicode(city.lower())
 
         phones = []
         website = ''
         email = ''
-
         for i in range(1,6):
             if row['Phone'+str(i)]:
                 phones.append(self.number_parser(row['Phone'+str(i)]))
@@ -157,106 +158,72 @@ class processGraph(Extra):
         if row['Mail']:
             email = row['Mail'].strip()
 
+        query = name
         search_result=self.graph.get("search?q=%s&fields=location,phone,emails,website&type=place&limit=50"%(query))
+
+        #print json.dumps(search_result,indent=4,cls=DecimalEncoder)
+        probable = None
         for place in search_result['data']:
             if 'location' in place:
                 if 'zip' in place['location'] :
-                    if unicode(pin) == unicode(place['location']['zip']) and unicode(pin):
+                    if unicode(pin) == unicode(place['location']['zip'])  and unicode(pin):
                         print '\t PINCODE MATCHED ***'
-                        node = self.graph.get(place['id']+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
-                        print json.dumps(node,indent=4,cls=DecimalEncoder)
-                        return True,False,node
+                        resp_x = self.graph.get(place['id']+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
+                        print json.dumps(resp_x,indent=4,cls=DecimalEncoder)
+                        return resp_x
                         #return self.graph.get(place['id']+"?fields=location,is_verified,description,phone,link,cover,website,emails")
-
                 if 'city' in place['location'] :
                     if city == unicode(place['location']['city'].lower()) and not probable:
                         probable = place['id']
-                        node = self.graph.get(place['id']+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
-            #'''
+
             if 'phone' in place and phones:
                 if self.match_phone_nos(phones,place['phone']):
-                    node = self.graph.get(place['id']+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
-                    print json.dumps(node,indent=4,cls=DecimalEncoder)
-                    return True,False,node
+                    resp_x = self.graph.get(place['id']+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
+                    print json.dumps(resp_x,indent=4,cls=DecimalEncoder)
+                    return resp_x
                     #return self.graph.get(place['id']+"?fields=location,is_verified,description,phone,link,cover,website,emails")
 
             if 'emails' in place and email:
                 for x in place['emails']:
                     if x == email:
                         print '\tEMAIL MATCHED ###'
-                        node = self.graph.get(place['id']+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
-                        print json.dumps(node,indent=4,cls=DecimalEncoder)
-                        return True,False,node
-            #'''
-        if allow_website_match:
-            match=False
-            multiple_match=False
-            correct_place_id=''
+                        resp_x = self.graph.get(place['id']+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
+                        print json.dumps(resp_x,indent=4,cls=DecimalEncoder)
+                        return resp_x
+        '''
+        if pin:
+            query = name + ', ' + pin
+            print '  ^^^ ',query
+            search_result=self.graph.get("search?q=%s&fields=location,phone,emails,website&type=place&limit=50"%(query))
+            print '  ^^^ COUNT : ',len(search_result['data'])
 
             for place in search_result['data']:
                 if 'website' in place and website:
                     if self.match_website(website,place['website']):
-                        if not match:
-                            correct_place_id=place['id']
-                            match=True
-                        else:
-                            multiple_match=True
-                            break
+                        print '\tWEBSITE MATCHED @@@'
+                        resp_x = self.graph.get(place['id']+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
+                        print json.dumps(resp_x,indent=4,cls=DecimalEncoder)
+                        return resp_x
+                        #return self.graph.get(place['id']+"?fields=location,is_verified,description,phone,link,cover,website,emails")
+        '''
+        query = name + ', ' + state
+        print '  ^^^ ',query
+        search_result=self.graph.get("search?q=%s&fields=location,phone,emails,website&type=place&limit=50"%(query))
+        print '  ^^^ COUNT : ',len(search_result['data'])
 
-            if match and not multiple_match:
-                print '\tWEBSITE MATCHED @@@'
-                node = self.graph.get(correct_place_id+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
-                print json.dumps(node,indent=4,cls=DecimalEncoder)
-                return True,False,node
-            elif multiple_match:
-                print '\tMULTIPLE MATCHED @@@'
-            else:
-                print '\tNO WEBSITE MATCHED'
+        for place in search_result['data']:
+            if 'website' in place and website:
+                if self.match_website(website,place['website']):
+                    print '\tWEBSITE MATCHED @@@'
+                    resp_x = self.graph.get(place['id']+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
+                    print json.dumps(resp_x,indent=4,cls=DecimalEncoder)
+                    return resp_x
+                    #return self.graph.get(place['id']+"?fields=location,is_verified,description,phone,link,cover,website,emails")
 
         if probable:
-            node = self.graph.get(probable+"?fields=location,description,is_verified,phone,link,cover,website,emails")
-            return False,True,node
-        return False,False,dict()
-
-
-    def searchPlace(self,row,state):
-        global probable_count
-
-        matched=False
-        probable=False
-        node = ''
-
-        query = row['Name']
-        matched,probable,node=self.analyze_prediction(row,state,query,False)
-
-        #'''
-        if not matched and row['Locality']:
-            print '\t# CHANGING QUERY(1)'
-            query = row['Name'] + ', ' + row['Locality']
-            matched,probable,node=self.analyze_prediction(row,state,query,True)
-        #'''
-
-        '''
-        if not matched and row['Pincode']:
-            print '\t# CHANGING QUERY(1.5)'
-            query = row['Name'] + ', ' + row['Pincode']
-            matched,probable,node=self.analyze_prediction(row,state,query,True)
-        '''
-
-        #'''
-        if not matched:
-            print '\t# CHANGING QUERY(2)'
-            query = row['Name'] + ', ' + state
-            matched,probable,node=self.analyze_prediction(row,state,query,True)
-        #'''
-
-        if matched:
-            return node
-        elif probable:
             probable_count+=1
-            return node
-        else:
-            return dict()
+            return self.graph.get(probable+"?fields=location,description,is_verified,phone,link,cover,website,emails")
+        return dict()
 
     def processAll(self,rows):
         global probable_count
@@ -315,3 +282,41 @@ if __name__ == '__main__':
     print '\n\n\n\n'
     p = processGraph()
     p.processAll(get_data())
+
+
+
+
+
+
+
+
+    def check(self):
+        name='IIT Delhi'
+        query = 'search?q=%s&type=place&fields=location&limit=10'%(name)
+
+        print 'QUERY : ',query
+        search_result = self.graph.get(query)
+        #print search_result
+        print json.dumps(search_result,indent=4,cls=DecimalEncoder)
+
+        idx = 1
+        for place in search_result['data']:
+            print '\n CHECKING %s : '%(idx),
+            if 'zip' in place['location'] :
+                print '\n'
+                query = place['id']+"?fields=location,is_verified,description,phone,link,cover,website,emails"
+
+                print 'QUERY : ',query
+                search_result_x = self.graph.get(query)
+                print json.dumps(search_result_x,indent=4,cls=DecimalEncoder)
+            else:
+                print 'SKIPPED'
+
+            idx += 1
+
+    #return row[]
+    #address = row['Name'] + ', ' + row['Locality']
+    #address = row['Name'] + ', ' + row['Pincode']
+    #address = row['Name'] + ', ' + row['City']
+    #address = row['Name'] + row['Street Address']
+    #address = row["Street Address"] + ' ' + row["Locality"] + ', ' + row["City"]

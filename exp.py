@@ -315,3 +315,41 @@ if __name__ == '__main__':
     print '\n\n\n\n'
     p = processGraph()
     p.processAll(get_data())
+
+
+
+
+
+
+
+
+    def check(self):
+        name='IIT Delhi'
+        query = 'search?q=%s&type=place&fields=location&limit=10'%(name)
+
+        print 'QUERY : ',query
+        search_result = self.graph.get(query)
+        #print search_result
+        print json.dumps(search_result,indent=4,cls=DecimalEncoder)
+
+        idx = 1
+        for place in search_result['data']:
+            print '\n CHECKING %s : '%(idx),
+            if 'zip' in place['location'] :
+                print '\n'
+                query = place['id']+"?fields=location,is_verified,description,phone,link,cover,website,emails"
+
+                print 'QUERY : ',query
+                search_result_x = self.graph.get(query)
+                print json.dumps(search_result_x,indent=4,cls=DecimalEncoder)
+            else:
+                print 'SKIPPED'
+
+            idx += 1
+
+    #return row[]
+    #address = row['Name'] + ', ' + row['Locality']
+    #address = row['Name'] + ', ' + row['Pincode']
+    #address = row['Name'] + ', ' + row['City']
+    #address = row['Name'] + row['Street Address']
+    #address = row["Street Address"] + ' ' + row["Locality"] + ', ' + row["City"]
