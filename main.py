@@ -142,9 +142,8 @@ class processGraph(Extra):
 
     def analyze_prediction(self,row,query,allow_website_match):
         print '\tQUERY : ',query
-        probable = False
-        city,pin=row['City'].lower(),row['Pincode']
 
+        pin= row['Pincode']
         phones = []
         website = ''
         email = ''
@@ -165,20 +164,13 @@ class processGraph(Extra):
                         print '\t PINCODE MATCHED ***'
                         node = self.graph.get(place['id']+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
                         print json.dumps(node,indent=4,cls=DecimalEncoder)
-                        return True,False,node
-                        #return self.graph.get(place['id']+"?fields=location,is_verified,description,phone,link,cover,website,emails")
+                        return node
 
-                if 'city' in place['location'] :
-                    if city == unicode(place['location']['city'].lower()) and not probable:
-                        probable = place['id']
-                        node = self.graph.get(place['id']+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
-            #'''
             if 'phone' in place and phones:
                 if self.match_phone_nos(phones,place['phone']):
                     node = self.graph.get(place['id']+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
                     print json.dumps(node,indent=4,cls=DecimalEncoder)
-                    return True,False,node
-                    #return self.graph.get(place['id']+"?fields=location,is_verified,description,phone,link,cover,website,emails")
+                    return node
 
             if 'emails' in place and email:
                 for x in place['emails']:
@@ -186,8 +178,9 @@ class processGraph(Extra):
                         print '\tEMAIL MATCHED ***'
                         node = self.graph.get(place['id']+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
                         print json.dumps(node,indent=4,cls=DecimalEncoder)
-                        return True,False,node
-            #'''
+                        return node
+
+        # WEBSITE MATCH IS NOT SAFE. HENCE SHOULD BE DONE ONLY IF ABOVE MEASURES FAILS.
         if allow_website_match:
             match=False
             multiple_match=False
@@ -207,52 +200,32 @@ class processGraph(Extra):
                 print '\tWEBSITE MATCHED @@@'
                 node = self.graph.get(correct_place_id+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
                 print json.dumps(node,indent=4,cls=DecimalEncoder)
-                return True,False,node
+                return node
             elif multiple_match:
                 print '\tMULTIPLE MATCHED @@@'
             else:
                 print '\tNO WEBSITE MATCHED'
 
-        if probable:
-            node = self.graph.get(probable+"?fields=location,description,is_verified,phone,link,cover,website,emails")
-            return False,True,node
-        return False,False,dict()
+        return dict()
 
 
     def searchPlace(self,row,state):
-        global probable_count
-
-        matched=False
-        probable=False
-        node = ''
-
         query = row['Name']
-        matched,probable,node=self.analyze_prediction(row,query,False)
+        node = self.analyze_prediction(row,query,False)
 
-        #'''
-        if not matched and row['Locality']:
+        if not node and row['Locality']:
             print '\t# CHANGING QUERY(1)'
             query = row['Name'] + ', ' + row['Locality']
-            matched,probable,node=self.analyze_prediction(row,query,True)
-        #'''
+            node=self.analyze_prediction(row,query,True)
 
-        #'''
-        if not matched:
+        if not node:
             print '\t# CHANGING QUERY(2)'
             query = row['Name'] + ', ' + state
-            matched,probable,node=self.analyze_prediction(row,query,True)
-        #'''
+            node=self.analyze_prediction(row,query,True)
 
-        if matched:
-            return node
-        elif probable:
-            probable_count+=1
-            return node
-        else:
-            return dict()
+        return node
 
     def processAll(self,rows):
-        global probable_count
         details,link,cover,website,pincode,street,dp,verified,phone,email=0,0,0,0,0,0,0,0,0,0 #stats
         total = len(rows)
 
@@ -291,13 +264,12 @@ class processGraph(Extra):
         #sys.stdout.flush()
         print "\nNew Info Added from Facebook\nDetails:%d Facebook Link:%d Cover:%d \nWebsite:%d Pincode:%d Address:%d Images:%d Verified %d/%d Phone:%d Emails:%d"%(details,link,cover,website,pincode,street,dp,verified,link,phone,email)
 
-        print '\nMATCHED : ',responses_received-probable_count
-        print 'PROBABLE : ',probable_count
+        print '\nMATCHED : ',responses_received
         print 'NO MATCH : ',no_response_received
 
 def get_data():
     rows = []
-    file_name = glob.glob('../../scrap-preprocessor/input/scrap_rajkot_output_1.csv')
+    file_name = glob.glob('../../scrap-preprocessor/input/vijayawada_output_1.csv')
     inputFile = open(file_name[0],'r')
     reader = csv.DictReader(inputFile,dialect=csv.excel)
     rows.extend(reader)
