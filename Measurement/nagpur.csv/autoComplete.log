@@ -1,0 +1,1914 @@
+['./input/nagpur_output_1.csv']
+
+Current file is ./input/nagpur_output_1.csv
+
+
+RUNNING AUTOCOMPLETE
+STATE :  Maharashtra
+2       # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+3       # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+4       # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+5       MATCHING STATES
+        -->  Suyash Study Centre, Gopal Nagar, Pratap Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+6       # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+7       MATCHING STATES
+        -->  Sunshine Tutorials, Dharampeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+8       # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+9       MATCHING STATES
+        -->  Attitudes Beauty Salon, NGO Colony Road, Vanasthalipuram, Hyderabad, Telangana, India
+        -->  Attitudes Hair & Beauty Care For Ladies, Hyderabad, Telangana, India
+        -->  Attitudes For Men, Hyderabad, Telangana, India
+        -->  Attitudes For Women, Vanasthalipuram, Hyderabad, Telangana, India
+        -->  Attitudes, Akurdi, Pimpri-Chinchwad, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+10      # CHANGING QUERY(1)
+        -->  Angrezi 2 English, Nagpur, Maharashtra 440010, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+11      # CHANGING QUERY(1)
+        -->  IES Share Market Training Institute, Nagpur, Maharashtra 440025, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+12      MATCHING STATES
+        -->  Vikalp Education, Nandanvan, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+13      # CHANGING QUERY(1)
+        -->  IBT Institute Nagpur - SSC CGL | Bank PO | Railway Coaching, Gorepeth, Nagpur, Maharashtra 440010, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+14      # CHANGING QUERY(1)
+        MATCHING STATES
+        -->  GEEBEE Education, Nagpur, Maharashtra 440010, India
+        -->  GeeBee overseas education, Shankar Nagar, Ramdaspeth, Nagpur, Maharashtra 440010, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9326075355']
+        ||   > NEW :  7122560355
+        ||   > NEW :  7126647355
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://geebeeworld.com
+        ||   > NEW :  http://www.geebeeworld.com/
+        ||   > NEW :  http://www.geebeeworld.com/
+        MULTIPLE MATCHED
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  GEEBEE Education, Nagpur, Maharashtra, India
+        -->  GeeBee overseas education, Shankar Nagar, Ramdaspeth, Nagpur, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9326075355']
+        ||   > NEW :  7122560355
+        ||   > NEW :  7126647355
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://geebeeworld.com
+        ||   > NEW :  http://www.geebeeworld.com/
+        ||   > NEW :  http://www.geebeeworld.com/
+        MULTIPLE MATCHED
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+15      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  T.I.M.E., Nagpur, Maharashtra, India
+        -->  T.I.M.E., Kachimet, Nagpur, Maharashtra, India
+        -->  T.I.M.E., Great Nag Road, Untkhana, Nagpur, Maharashtra, India
+        -->  T.I.M.E., Bandu Soni Layout, Trimurti Nagar, Nagpur, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 3013111', ' 9421852555']
+        ||   > NEW :  7126579777
+        ||   > NEW :
+        ||   > NEW :  7126456709
+        ||   > NEW :  9421852555
+        || PHONE NUMBERS MATCHED
+        RES:  VERIFIED
+16      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+17      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+18      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+19      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  CADENCE Academy, Central Avenue Road, Lakadganj, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+20      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+21      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+22      # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Akash Educational Academy, Ajni, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+23      MATCHING STATES
+        -->  Arya Maths Classes, Hanuman Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+24      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+25      MATCHING STATES
+        -->  Professor Mohod Engineering Academy, Laxmi Nagar, Pune, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+26      MATCHING STATES
+        -->  Rajiv Sir, Ganeshpeth Colony, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+27      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Surabhi Tuition Classes, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+28      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Tuition Point, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+29      MATCHING STATES
+        -->  Sneha Tuitions Classes, Nandanvan, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+30      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2779120', ' 9422124108']
+        ||   > NEW :
+        ||   > NEW :  7122532135
+        ||   > NEW :
+        ||   > NEW :  7126617824
+        ||   > NEW :  7122522771
+        NO PHONE MATCHED
+        NOT VERIFIED
+31      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9665305312', ' 8421728712']
+        ||   > NEW :
+        NO PHONE MATCHED
+        NOT VERIFIED
+32      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+33      # CHANGING QUERY(2)
+        NOT VERIFIED
+34      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+35      # CHANGING QUERY(2)
+        NOT VERIFIED
+36      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+37      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+38      MATCHING STATES
+        -->  ACE Pro Academy, Mata Mandir Road, Dharampeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+39      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+40      # CHANGING QUERY(1)
+        -->  Unique Academy, Ambazari Road, Ramdaspeth, Nagpur, Maharashtra 440012, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+41      MATCHING STATES
+        -->  Sharda Classes, Pratap Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+42      # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Bulls Eye, Nagpur, Nagpur, Maharashtra, India
+        -->  Bulls-Eye, South Ambazari Road, Ambazari, Nagpur, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9764002302']
+        ||   > NEW :  7126050400
+        ||   > NEW :  9890977174
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://hitbullseye.com
+        ||   > NEW :  http://www.hitbullseye.com/
+        ||   > NEW :  http://www.hitbullseye.com/
+        MULTIPLE MATCHED
+        NOT VERIFIED
+43      MATCHING STATES
+        -->  Sai Softech, Anant Kanhere Path, Dattawadi, Pune, Maharashtra, India
+        -->  Softech Computers, Sai Road, Baddi, Himachal Pradesh, India
+        STATE MATCHED
+        RES:  VERIFIED
+44      MATCHING STATES
+        -->  Alpha Learning, Dattatray Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+45      MATCHING STATES
+        -->  ICE GATE INSTITUTE, Khare Town, Dharampeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+46      MATCHING STATES
+        -->  TITANS LEARNING PVT. LTD., Koradi Road, Byramji Town, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+47      MATCHING STATES
+        -->  BSC Academy Nagpur, New Ramdaspeth, Ramdaspeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+48      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+49      MATCHING STATES
+        -->  Auxano EduTech LLP, Gorepeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+50      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+51      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+52      MATCHING STATES
+        -->  Adersh Coching Classes, Central Avenue Road, Lakadganj, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+53      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Anuradha Tuition Classes, Ajni, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+54      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Atharva Tuition Classes, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+55      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Bhattacharya Mathematical Academy, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+56      # CHANGING QUERY(1)
+        -->  Biocareers, Nagpur, Maharashtra 440022, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+57      MATCHING STATES
+        -->  British Academy, Bajaj Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+58      MATCHING STATES
+        -->  Cambridge Council, Civil Lines, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+59      # CHANGING QUERY(1)
+        -->  Career Forum, Gokulpeth, Nagpur, Maharashtra 440010, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+60      MATCHING STATES
+        -->  Career Launcher, Hill Road, Ravi Nagar, Dharampeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+61      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Career Launcher, Ram Nagar, Nagpur, Maharashtra, India
+        -->  Career Launcher, Hill Road, Ravi Nagar, Ram Nagar, Nagpur, Maharashtra, India
+        -->  Career Launcher, South Ambazari Road, Sitabuldi, Nagpur, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2541989']
+        ||   > NEW :  7126063000
+        ||   > NEW :  9665383139
+        ||   > NEW :  7887324032
+        NO PHONE MATCHED
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2541989']
+        ||   > NEW :
+        ||   > NEW :  2612320558
+        ||   > NEW :  2612355906
+        NO PHONE MATCHED
+        NOT VERIFIED
+62      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2557087', ' 0712 - 2557084', ' 9422017069']
+        ||   > NEW :
+        ||   > NEW :  7122532135
+        ||   > NEW :
+        ||   > NEW :  7126617824
+        ||   > NEW :  7122522771
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://imsindia.com
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :
+        NO WEBSITE MATCHED
+        NOT VERIFIED
+63      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Chate Coaching Classes Pvt Ltd, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+64      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2223846']
+        ||   > NEW :  7620986333
+        NO PHONE MATCHED
+        NOT VERIFIED
+65      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+66      MATCHING STATES
+        -->  Confidence Foundation, Hennesy Road, Civil Lines, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+67      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Daswani Classes Ltd ( Kota ), Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+68      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Deendayal Research Institute, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+69      MATCHING STATES
+        -->  Diwe Commerce Class, Wardha Road, Sawarkar Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+70      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Gade Sirs Mangesh Tutorials, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+71      MATCHING STATES
+        -->  Geeta`s English Institute, Ramdaspeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+72      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9890101538']
+        ||   > NEW :
+        ||   > NEW :  7122532135
+        ||   > NEW :
+        ||   > NEW :  7126617824
+        ||   > NEW :  7122522771
+        NO PHONE MATCHED
+        NOT VERIFIED
+73      # CHANGING QUERY(1)
+        -->  Guidance Point, Dharampeth, Nagpur, Maharashtra 440010, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+74      MATCHING STATES
+        -->  HR MARKETING & DISTRIBUTION, Dubey Colony, Indore, Madhya Pradesh, India
+        -->  H.R. Marketing, Kanpur, Uttar Pradesh, India
+        -->  H.R MARKETING, Kanpur, Uttar Pradesh, India
+        -->  H.R Marketing, Dayal Bagh Road, Indra Puri, Agra, Uttar Pradesh, India
+        -->  H R Marketing, Ahmedabad, Gujarat, India
+        NO STATE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2552906']
+        ||   > NEW :  9754706071
+        ||   > NEW :  9935014327
+        ||   > NEW :  9935014327
+        ||   > NEW :  9634471544
+        ||   > NEW :  7930411780
+        NO PHONE MATCHED
+        # CHANGING QUERY(1)
+        MATCHING STATES
+        -->  HR MARKETING & DISTRIBUTION, Dubey Colony, Indore, Madhya Pradesh, India
+        -->  H.R. Marketing, Kanpur, Uttar Pradesh, India
+        -->  H.R MARKETING, Kanpur, Uttar Pradesh, India
+        -->  H.R Marketing, Dayal Bagh Road, Indra Puri, Agra, Uttar Pradesh, India
+        -->  H R Marketing, Ahmedabad, Gujarat, India
+        NO STATE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2552906']
+        ||   > NEW :  9754706071
+        ||   > NEW :  9935014327
+        ||   > NEW :  9935014327
+        ||   > NEW :  9634471544
+        ||   > NEW :  7930411780
+        NO PHONE MATCHED
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  HR MARKETING & DISTRIBUTION, Dubey Colony, Indore, Madhya Pradesh, India
+        -->  H.R. Marketing, Kanpur, Uttar Pradesh, India
+        -->  H.R MARKETING, Kanpur, Uttar Pradesh, India
+        -->  H.R Marketing, Dayal Bagh Road, Indra Puri, Agra, Uttar Pradesh, India
+        -->  H R Marketing, Ahmedabad, Gujarat, India
+        NO STATE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2552906']
+        ||   > NEW :  9754706071
+        ||   > NEW :  9935014327
+        ||   > NEW :  9935014327
+        ||   > NEW :  9634471544
+        ||   > NEW :  7930411780
+        NO PHONE MATCHED
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2552906']
+        ||   > NEW :
+        ||   > NEW :  7122532135
+        ||   > NEW :
+        ||   > NEW :  7126617824
+        ||   > NEW :  7122522771
+        NO PHONE MATCHED
+        NOT VERIFIED
+75      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+76      # CHANGING QUERY(1)
+        -->  Harmony Training Centre, Nagpur, Maharashtra 440010, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+77      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2540690']
+        ||   > NEW :  7122563042
+        ||   > NEW :  7126693666
+        ||   > NEW :  9098905480
+        ||   > NEW :  7122531469
+        NO PHONE MATCHED
+        NOT VERIFIED
+78      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+79      # CHANGING QUERY(1)
+        -->  Inspire Learning School, Nagpur, Maharashtra 440010, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+80      # CHANGING QUERY(1)
+        -->  Iqbal Coaching Classes, Chindwada Road, Koradi Colony, Nagpur, Maharashtra 440001, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+81      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2748699']
+        ||   > NEW :  7122712190
+        ||   > NEW :  7127124632
+        ||   > NEW :
+        ||   > NEW :  7122567035
+        ||   > NEW :
+        NO PHONE MATCHED
+        NOT VERIFIED
+82      MATCHING STATES
+        -->  Jog English Classes, Dharampeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+83      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9225232522']
+        ||   > NEW :
+        NO PHONE MATCHED
+        NOT VERIFIED
+84      MATCHING STATES
+        -->  Khirwadkar Institute For Technological Excellence, Abhyankar Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+85      MATCHING STATES
+        -->  Learning Tree, Gandhi Nagar, Nagpur, Maharashtra, India
+        -->  Learning Tree Classes, Corporation Colony, Gandhi Nagar, Nagpur, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 3260446', ' 9373102664']
+        ||   > NEW :  7123260446
+        || PHONE NUMBERS MATCHED
+        RES:  VERIFIED
+86      MATCHING STATES
+        -->  Maths Clinic, Gandhi Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+87      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+88      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9860493030']
+        ||   > NEW :  9423409955
+        ||   > NEW :  9422153212
+        ||   > NEW :  9370998056
+        ||   > NEW :  9373559054
+        ||   > NEW :  9823973323
+        NO PHONE MATCHED
+        NOT VERIFIED
+89      # CHANGING QUERY(1)
+        -->  Nanote Motharkar Tuition Classes, Bagadganj, Nagpur, Maharashtra 440008, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+90      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+91      MATCHING STATES
+        -->  Oxford Academy, Wardha Road, Dhantoli, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+92      MATCHING STATES
+        -->  Oxford Speakers' Academy, Sitabuldi, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+93      # CHANGING QUERY(1)
+        -->  Pragya Classes, Nagpur, Maharashtra 440024, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+94      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2557873']
+        ||   > NEW :
+        ||   > NEW :  7122532135
+        ||   > NEW :
+        ||   > NEW :  7126617824
+        ||   > NEW :  7122522771
+        NO PHONE MATCHED
+        NOT VERIFIED
+95      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Sachdeva New P T College / Sachdeva Iit Academy, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+96      # CHANGING QUERY(1)
+        -->  Sachin Coaching Classes, Nagpur, Maharashtra 440003, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+97      MATCHING STATES
+        -->  Scholars Coaching Classes, Hanuman Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+98      # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Shree Coaching Classes, Hudkeshwar Road, Ashirwad Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+99      MATCHING STATES
+        -->  Spardha Pariksha Margdarshan, Bajaj Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+100     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9823485899']
+        ||   > NEW :  7122563042
+        ||   > NEW :  7126693666
+        ||   > NEW :  9098905480
+        ||   > NEW :  7122531469
+        NO PHONE MATCHED
+        NOT VERIFIED
+101     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2563834', ' 0712 - 2563835']
+^[[F    ||   > NEW :
+        ||   > NEW :  9372309422
+        ||   > NEW :  9372411005
+        ||   > NEW :  7122562743
+        ||   > NEW :  7122525370
+        NO PHONE MATCHED
+        NOT VERIFIED
+102     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+103     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2236653']
+        ||   > NEW :  9370059185
+        ||   > NEW :  9373106416
+        ||   > NEW :
+        ||   > NEW :  8421263249
+        ||   > NEW :
+        NO PHONE MATCHED
+        NOT VERIFIED
+104     # CHANGING QUERY(1)
+        -->  Vedic Mathematics, Nagpur, Maharashtra 440002, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+105     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Vidarbha Accounting Academy, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+106     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9822224808']
+        ||   > NEW :  7122443968
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :  8432220143
+        ||   > NEW :  8421263249
+        NO PHONE MATCHED
+        NOT VERIFIED
+107     # CHANGING QUERY(1)
+        -->  Vidharbha Professional Acedamy, East Shankar Nagar, Nagpur, Maharashtra 440010, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+108     MATCHING STATES
+        -->  Vidyasagar Classes, Bajaj Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+109     MATCHING STATES
+        -->  Vidyasagar Classes, Bajaj Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+110     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Vijaylaxmi Rangoli, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+111     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 6596349']
+        ||   > NEW :  7122540743
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :  9545517587
+        ||   > NEW :
+        NO PHONE MATCHED
+        NOT VERIFIED
+112     # CHANGING QUERY(1)
+        -->  Yashshree Competition Zone, Ambazari Road, Ramdaspeth, Nagpur, Maharashtra 440012, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+113     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+114     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+115     MATCHING STATES
+        -->  Arun Tutorial, Wanjari Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+116     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+117     MATCHING STATES
+        -->  Gandhe's Commerce Classes, Ramdaspeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+118     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Global Spoken English Calsses, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+119     # CHANGING QUERY(1)
+        -->  IIT- Home, Nagpur, Maharashtra 440010, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+120     MATCHING STATES
+        -->  Mahila Kala Niketan, Gorepeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+121     # CHANGING QUERY(1)
+        -->  Partho Engineering Classes, Nagpur, Maharashtra 440010, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+122     MATCHING STATES
+        -->  Perfect Spoken English & Personality Development Institute, Amravati Road, Civil Lines, Nagpur, Maharashtra, India
+        -->  Perfect Spoken English, Udhana Main Road, Udhna, Surat, Gujarat, India
+        -->  Perfect Spoken English, Parakatt Temple Road, Chembumukku, Kochi, Kerala, India
+        -->  Perfect Spoken English Instutite, Pithauriya, Jharkhand, India
+        -->  Perfect Spoken English, Sector 3, Faridabad, Haryana, India
+        STATE MATCHED
+        RES:  VERIFIED
+123     # CHANGING QUERY(1)
+        -->  Sharma Classes (Engn Drawing), Dharampeth, Nagpur, Maharashtra 440010, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+124     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2541051']
+        ||   > NEW :
+        ||   > NEW :
+        NO PHONE MATCHED
+        NOT VERIFIED
+125     # CHANGING QUERY(1)
+        -->  Surbhi Kala Prashikshan Sanstha, Khamla Road, Ramakrishna Nagar, Nagpur, Maharashtra 440015, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+126     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2233670', ' 0712 - 2240295', ' 9890004290']
+        ||   > NEW :
+        NO PHONE MATCHED
+        NOT VERIFIED
+127     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+128     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9953960900']
+        ||   > NEW :  9825184480
+        ||   > NEW :  7769983009
+        ||   > NEW :  7122533452
+        ||   > NEW :  9545517587
+        ||   > NEW :
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://edstarindia.com
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :  http://www.nagpuruniversity.org/
+        ||   > NEW :  http://www.nit.edu.in/
+        ||   > NEW :
+        NO WEBSITE MATCHED
+        NOT VERIFIED
+129     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 6454984', ' 9325343464']
+        ||   > NEW :
+        ||   > NEW :  7122532135
+        ||   > NEW :
+        ||   > NEW :  7126617824
+        ||   > NEW :  7122522771
+        NO PHONE MATCHED
+        NOT VERIFIED
+130     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+131     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2294791', ' 0712 - 2294790', ' 9371677026']
+        ||   > NEW :
+        ||   > NEW :  7122532135
+        ||   > NEW :
+        ||   > NEW :  7126617824
+        ||   > NEW :  7122522771
+        NO PHONE MATCHED
+        NOT VERIFIED
+132     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Prakash institute, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+133     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9923819374']
+        ||   > NEW :
+        ||   > NEW :  7126458395
+        ||   > NEW :  7122228122
+        ||   > NEW :
+        ||   > NEW :  7122240589
+        NO PHONE MATCHED
+        NOT VERIFIED
+134     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Pramod Sir's Self Study Guidance Center, Somalwada, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+135     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9823230881']
+        ||   > NEW :  7122540743
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :  9545517587
+        ||   > NEW :
+        NO PHONE MATCHED
+        NOT VERIFIED
+136     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2222911', ' 9371945613']
+        ||   > NEW :  9370059185
+        ||   > NEW :  9373106416
+        ||   > NEW :
+        ||   > NEW :  8421263249
+        ||   > NEW :
+        NO PHONE MATCHED
+        NOT VERIFIED
+137     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9422185040']
+        ||   > NEW :  7126693666
+        ||   > NEW :  9822794426
+        ||   > NEW :  7126582525
+        ||   > NEW :  7122448577
+        ||   > NEW :  7126450799
+        NO PHONE MATCHED
+        NOT VERIFIED
+138     # CHANGING QUERY(1)
+        -->  Shree Shivmhan Band Party, Nagpur, Maharashtra 440002, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+139     # CHANGING QUERY(1)
+        -->  Sana Music, Nagpur, Maharashtra 440018, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+140     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+141     # CHANGING QUERY(1)
+        -->  Bonsaii Nagpur, New Ramdaspeth, Ramdaspeth, Nagpur, Maharashtra 440010, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+142     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2557774', ' 9823096922']
+        ||   > NEW :  9371371353
+        ||   > NEW :  7122705358
+        NO PHONE MATCHED
+        NOT VERIFIED
+143     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+144     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9595492368', ' 8055252999']
+        ||   > NEW :  7122712190
+        ||   > NEW :  7127124632
+        ||   > NEW :
+        ||   > NEW :  7122567035
+        ||   > NEW :
+        NO PHONE MATCHED
+        NOT VERIFIED
+145     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Education Planet, Untkhana Road, Rambagh, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+146     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+147     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+148     MATCHING STATES
+        -->  Sunshine Tutorials, Dharampeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+149     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['8007917078']
+        ||   > NEW :  7122712190
+        ||   > NEW :  7127124632
+        ||   > NEW :
+        ||   > NEW :  7122567035
+        ||   > NEW :
+        NO PHONE MATCHED
+        NOT VERIFIED
+150     # CHANGING QUERY(2)
+        NOT VERIFIED
+151     # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Aakash Institute | Aakash IIT-JEE, Gorepeth, Nagpur, Maharashtra, India
+        -->  Aakash Oxygen, Nagpur, Maharashtra, India
+        -->  Aakash Medicals, Ring Road, Suyog Nagar, Nagpur, Maharashtra, India
+        -->  Aakash Engineering Company, Kamptee Road, Mohan Nagar, Nagpur, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2227634', ' 9372812345']
+        ||   > NEW :  7123945454
+        ||   > NEW :  7122726498
+        ||   > NEW :  8421635466
+        ||   > NEW :  7122548085
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://aakash.ac.in
+        ||   > NEW :  http://www.aakash.ac.in/
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :  http://www.aakash.ac.in/prepare-for-engineering-entrance-exams
+        WEBSITE MATCHED
+        RES:  VERIFIED
+152     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2556231']
+        ||   > NEW :  9822794426
+        ||   > NEW :  7126582525
+        ||   > NEW :
+        ||   > NEW :  7122531469
+        ||   > NEW :
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://amiestudycircle.com
+        ||   > NEW :
+        ||   > NEW :  http://www.nagpuruniversity.org/
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :
+        NO WEBSITE MATCHED
+        NOT VERIFIED
+153     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+154     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2226141', ' 9021098057']
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :  9422458632
+        ||   > NEW :  7112222076
+        ||   > NEW :  7122546394
+        NO PHONE MATCHED
+        NOT VERIFIED
+155     MATCHING STATES
+        -->  INTRAWORD, Karelibaug, Vadodara, Gujarat, India
+        NO STATE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0265 - 3067199', ' 0265 - 3074883', ' 9016527086', ' 9723815238']
+        ||   > NEW :  2653074883
+        || PHONE NUMBERS MATCHED
+        RES:  VERIFIED
+156     # CHANGING QUERY(1)
+        -->  Alliance Infospace Academy, Nagpur, Maharashtra 440010, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+157     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Yashshree Competition Zone, Ambazari Road, Ramdaspeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+158     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+159     # CHANGING QUERY(1)
+        -->  Unique Academy, Ambazari Road, Ramdaspeth, Nagpur, Maharashtra 440012, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+160     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+161     MATCHING STATES
+        -->  Career Launcher, Ram Nagar, Nagpur, Maharashtra, India
+        -->  Career Launcher, Hill Road, Ravi Nagar, Ram Nagar, Nagpur, Maharashtra, India
+        -->  Career Launcher, South Ambazari Road, Sitabuldi, Nagpur, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 6464666', ' 0712 - 6063000']
+        ||   > NEW :  7126063000
+        || PHONE NUMBERS MATCHED
+        RES:  VERIFIED
+162     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 6565652', ' 0712 - 6464642']
+        ||   > NEW :  7122540743
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :  9545517587
+        ||   > NEW :
+        NO PHONE MATCHED
+        NOT VERIFIED
+163     MATCHING STATES
+        -->  Vidyalankar, Nandanvanam Main Road, Nandanvan, Nagpur, Maharashtra, India
+        -->  Vidyalankar Hostel, Nandanvan Society, Navi Mumbai, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9158004232', ' 9823684513']
+        ||   > NEW :  8446034232
+        ||   > NEW :
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://vidyalankar.org
+        ||   > NEW :  http://vidyalankar.org/
+        ||   > NEW :  http://www.vidyalankar.org/
+        MULTIPLE MATCHED
+        # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Vidyalankar Classes, 5th Cross B Street, Ram Nagar, Nagpur, Maharashtra, India
+        -->  Vidyalankar, Nandanvanam Main Road, Nandanvan, Nagpur, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9158004232', ' 9823684513']
+        ||   > NEW :  8446024232
+        ||   > NEW :  8446034232
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://vidyalankar.org
+        ||   > NEW :  http://www.vidyalankar.org/
+        ||   > NEW :  http://vidyalankar.org/
+        MULTIPLE MATCHED
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+164     MATCHING STATES
+        -->  Adarsh Coaching Classes, Central Avenue Road, Lakadganj, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+165     MATCHING STATES
+        -->  Engineering College Chauraha, Sitapur Road, Sector A, Lucknow, Uttar Pradesh, India
+        -->  Engineering Staff College of India, Hyderabad, Telangana, India
+        -->  Engineering Institute For Junior Executives, Howrah, West Bengal, India
+        -->  Orissa Engineering College, Bhubaneswar, Odisha, India
+        -->  Engineering College Tuwa, Tuwa, Gujarat, India
+        NO STATE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9923797498']
+        ||   > NEW :
+        ||   > NEW :  4066304100
+        ||   > NEW :  3326678222
+        ||   > NEW :  9861844256
+        ||   > NEW :  9879085523
+        NO PHONE MATCHED
+        # CHANGING QUERY(1)
+        MATCHING STATES
+        -->  Engineering College Chauraha, Sitapur Road, Sector A, Lucknow, Uttar Pradesh, India
+        -->  Engineering Staff College of India, Hyderabad, Telangana, India
+        -->  Engineering Institute For Junior Executives, Howrah, West Bengal, India
+        -->  Orissa Engineering College, Bhubaneswar, Odisha, India
+        -->  Engineering College Tuwa, Tuwa, Gujarat, India
+        NO STATE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9923797498']
+        ||   > NEW :
+        ||   > NEW :  4066304100
+        ||   > NEW :  3326678222
+        ||   > NEW :  9861844256
+        ||   > NEW :  9879085523
+        NO PHONE MATCHED
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Engineering College Chauraha, Sitapur Road, Sector A, Lucknow, Uttar Pradesh, India
+        -->  Engineering Staff College of India, Hyderabad, Telangana, India
+        -->  Engineering Institute For Junior Executives, Howrah, West Bengal, India
+        -->  Orissa Engineering College, Bhubaneswar, Odisha, India
+        -->  Engineering College Tuwa, Tuwa, Gujarat, India
+        NO STATE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9923797498']
+        ||   > NEW :
+        ||   > NEW :  4066304100
+        ||   > NEW :  3326678222
+        ||   > NEW :  9861844256
+        ||   > NEW :  9879085523
+        NO PHONE MATCHED
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+166     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Caliber's Nova, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+167     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Motion Nagpur, Laxminagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+168     MATCHING STATES
+        -->  Talent 1coaching classes, Mahal, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+169     MATCHING STATES
+        -->  Javed Sirs Buniyadi Adhyapan, Vishwakarma Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+170     MATCHING STATES
+        -->  Bhange Academy, Katol Road, Rajnagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+171     # CHANGING QUERY(2)
+        NOT VERIFIED
+172     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+173     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+174     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+175     MATCHING STATES
+        -->  CAPS EDUCATION INDIA PVT LTD.NAGPUR, Ramdaspeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+176     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9822465399']
+        ||   > NEW :  7122563042
+        ||   > NEW :  7126693666
+        ||   > NEW :  9098905480
+        ||   > NEW :  7122531469
+        NO PHONE MATCHED
+        NOT VERIFIED
+177     # CHANGING QUERY(1)
+        -->  Tawani Tutorials, Nagpur, Maharashtra 440001, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+178     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+179     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Sneha Tuition Center, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+180     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+181     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+182     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+183     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+184     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['0712 - 2251937']
+        ||   > NEW :  9371371353
+        ||   > NEW :  7122705358
+        NO PHONE MATCHED
+        NOT VERIFIED
+185     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+186     MATCHING STATES
+        -->  NEW MBA ZONE, Ramdaspeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+187     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Ahmed Classes, Nagpur, Maharashtra, India
+        -->  Ahmed Classes, Somwarpet, Nagpur, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9326040516']
+        ||   > NEW :  9372473747
+        ||   > NEW :  9326040516
+        || PHONE NUMBERS MATCHED
+        RES:  VERIFIED
+188     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+189     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+190     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+191     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+192     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+193     MATCHING STATES
+        -->  Rama Bramham IIT Academy, Nallakunta, Hyderabad, Telangana, India
+        NO STATE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['+91 40 33584518']
+        ||   > NEW :  9908944662
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://rbiitacademy.com
+        ||   > NEW :  http://www.rbiitacademy.com/
+        WEBSITE MATCHED
+        RES:  VERIFIED
+194     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+195     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['8007161525']
+        ||   > NEW :
+        ||   > NEW :  7122567035
+        ||   > NEW :  7122750139
+        NO PHONE MATCHED
+        NOT VERIFIED
+196     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+197     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9423101113']
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :  9764086840
+        NO PHONE MATCHED
+        NOT VERIFIED
+198     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+199     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9822927697']
+        ||   > NEW :  9767988318
+        NO PHONE MATCHED
+        NOT VERIFIED
+200     MATCHING STATES
+        -->  Interactive Teaching Institute, Kachipura, Ramdaspeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+201     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+202     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+203     MATCHING STATES
+        -->  Advanced Institute of Accounts and Taxation Pvt.Ltd., Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+204     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+205     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+206     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+207     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+208     MATCHING STATES
+        -->  Perfect Spoken English & Personality Development Institute, Amravati Road, Civil Lines, Nagpur, Maharashtra, India
+        -->  Perfect Spoken English, Udhana Main Road, Udhna, Surat, Gujarat, India
+        -->  Perfect Spoken English, Parakatt Temple Road, Chembumukku, Kochi, Kerala, India
+        -->  Perfect Spoken English Instutite, Pithauriya, Jharkhand, India
+        -->  Perfect Spoken English, Sector 3, Faridabad, Haryana, India
+        STATE MATCHED
+        RES:  VERIFIED
+209     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+210     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  ASCENDANT LEARNING CENTER PVT. LTD, New Mankapur, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+211     MATCHING STATES
+        -->  Gawande Classes, Lakadganj, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+212     MATCHING STATES
+        -->  Indian School of Finance & Accounts, Nagpur, Maharashtra, India
+        -->  Indian School Of Finance & Accounts, Dharampeth, Nagpur, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9326681502', ' 9763144250']
+        ||   > NEW :  9970336384
+        ||   > NEW :  7126596221
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://isfaindia.com
+        ||   > NEW :  http://www.isfaindia.com/
+        ||   > NEW :  http://www.isfaindia.com/
+        MULTIPLE MATCHED
+        # CHANGING QUERY(1)
+        MATCHING STATES
+        -->  Indian School of Finance & Accounts, Nagpur, Maharashtra, India
+        -->  Indian School Of Finance & Accounts, Dharampeth, Nagpur, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9326681502', ' 9763144250']
+        ||   > NEW :  9970336384
+        ||   > NEW :  7126596221
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://isfaindia.com
+        ||   > NEW :  http://www.isfaindia.com/
+        ||   > NEW :  http://www.isfaindia.com/
+        MULTIPLE MATCHED
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Indian School of Finance & Accounts, Nagpur, Maharashtra, India
+        -->  Indian School Of Finance & Accounts, Dharampeth, Nagpur, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9326681502', ' 9763144250']
+        ||   > NEW :  9970336384
+        ||   > NEW :  7126596221
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://isfaindia.com
+        ||   > NEW :  http://www.isfaindia.com/
+        ||   > NEW :  http://www.isfaindia.com/
+        MULTIPLE MATCHED
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+213     MATCHING STATES
+        -->  Institute Of Innovative Designs & Technology, Chindwada Road, Sadar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+214     MATCHING STATES
+        -->  Creative Business Techniques, Ramdaspeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+215     # CHANGING QUERY(1)
+        -->  IIT INCEPTION, Besa Road, Manewada, Nagpur, Maharashtra 440034, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+216     MATCHING STATES
+        -->  Apex Institute Of Management & Research, Indore, Madhya Pradesh, India
+        -->  Apex Institute Of Management & research (AIMR), Hansa Khedi, Madhya Pradesh, India
+        -->  Apex Institute of Management Studies and Research, Meerut, Uttar Pradesh, India
+        -->  Apex Institute of Management & Science College Jaipur, Jaipur, Rajasthan, India
+        -->  Apex Institute of Management, College Road, Nashik, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+217     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+218     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  English Vinglish, Pratap Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+219     # CHANGING QUERY(2)
+        NOT VERIFIED
+220     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+221     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+222     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+223     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+224     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+225     MATCHING STATES
+        -->  The Institute Of Computer Accountant / Ica, Gokulpeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+226     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+227     MATCHING STATES
+        -->  Oxford Speakers' Academy, Sitabuldi, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+228     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9960705769']
+        ||   > NEW :  9423628826
+        ||   > NEW :
+        ||   > NEW :  9595821313
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://achieverstutorials.com
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :
+        NO WEBSITE MATCHED
+        NOT VERIFIED
+229     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+230     # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  DHRONA'S COMPETITIVE ACADEMY, Koradi Colony, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+231     MATCHING STATES
+        -->  Integra Eduventure, Kamptee Road, Mecosabagh Christian Colony, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+232     # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Interactive Teaching Institute, Ramdaspeth, Kachipura, East Shankar Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+233     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+234     # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Pyramid Tutorials, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+235     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9764430031']
+        ||   > NEW :
+        ||   > NEW :  9826041642
+        ||   > NEW :  7122640736
+        ||   > NEW :  9372749888
+        ||   > NEW :  7123205932
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://nuacademy.in
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :
+        ||   > NEW :
+        NO WEBSITE MATCHED
+        NOT VERIFIED
+236     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+237     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['8380892644']
+        ||   > NEW :  18001801503
+        ||   > NEW :  7122580081
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://jobsexam.com
+        ||   > NEW :  http://www.bsnl.co.in/
+        ||   > NEW :  http://www.indiapost.gov.in/
+        NO WEBSITE MATCHED
+        NOT VERIFIED
+238     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+239     # CHANGING QUERY(1)
+        MATCHING STATES
+        -->  T.I.M.E., Nagpur, Maharashtra 440033, India
+        -->  T.I.M.E., Kachimet, Nagpur, Maharashtra 440033, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9373344551', ' 9158827255']
+        ||   > NEW :  7126579777
+        ||   > NEW :
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://time4education.com
+        ||   > NEW :  http://www.time4education.com/
+        ||   > NEW :  http://www.time4education.com/
+        MULTIPLE MATCHED
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  T.I.M.E., Nagpur, Maharashtra, India
+        -->  T.I.M.E., Kachimet, Nagpur, Maharashtra, India
+        -->  T.I.M.E., Great Nag Road, Untkhana, Nagpur, Maharashtra, India
+        -->  T.I.M.E., Bandu Soni Layout, Trimurti Nagar, Nagpur, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9373344551', ' 9158827255']
+        ||   > NEW :  7126579777
+        ||   > NEW :
+        ||   > NEW :  7126456709
+        ||   > NEW :  9421852555
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://time4education.com
+        ||   > NEW :  http://www.time4education.com/
+        ||   > NEW :  http://www.time4education.com/
+        ||   > NEW :  http://www.time4education.com
+        ||   > NEW :  http://www.time4education.com/
+        MULTIPLE MATCHED
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+240     # CHANGING QUERY(1)
+        MATCHING STATES
+        -->  T.I.M.E., Nagpur, Maharashtra 440033, India
+        -->  T.I.M.E., Kachimet, Nagpur, Maharashtra 440033, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9373344551', ' 9158827255']
+        ||   > NEW :  7126579777
+        ||   > NEW :
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://time4education.com
+        ||   > NEW :  http://www.time4education.com/
+        ||   > NEW :  http://www.time4education.com/
+        MULTIPLE MATCHED
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  T.I.M.E., Nagpur, Maharashtra, India
+        -->  T.I.M.E., Kachimet, Nagpur, Maharashtra, India
+        -->  T.I.M.E., Great Nag Road, Untkhana, Nagpur, Maharashtra, India
+        -->  T.I.M.E., Bandu Soni Layout, Trimurti Nagar, Nagpur, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['9373344551', ' 9158827255']
+        ||   > NEW :  7126579777
+        ||   > NEW :
+        ||   > NEW :  7126456709
+        ||   > NEW :  9421852555
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://time4education.com
+        ||   > NEW :  http://www.time4education.com/
+        ||   > NEW :  http://www.time4education.com/
+        ||   > NEW :  http://www.time4education.com
+        ||   > NEW :  http://www.time4education.com/
+        MULTIPLE MATCHED
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+241     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+242     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Yashshree Competition Zone, Ambazari Road, Ramdaspeth, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+243     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+244     MATCHING STATES
+        -->  Chate Coaching Classes, Thane West, Maharashtra, India
+        -->  Chate Coaching Classes, Thane West, Thane, Maharashtra, India
+        MULTIPLE MATCHED
+        MATCHING PHONE NUMBERS
+        || ORIGINAL :  ['+91 22 49433892']
+        ||   > NEW :  2265010071
+        ||   > NEW :  2265010081
+        NO PHONE MATCHED
+        MATCHING WEBSITE
+        || ORIGINAL :  http://chateeducation.com
+        ||   > NEW :  http://chatecoachingclasses.in/
+        ||   > NEW :
+        NO WEBSITE MATCHED
+        # CHANGING QUERY(1)
+        -->  Chate Coaching Classes, Thane West, Maharashtra 400607, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+245     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+246     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+247     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+248     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+249     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Hakimi Computer Institute, Lakadganj, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+250     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+251     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+252     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        MATCHING STATES
+        -->  Chikhalkar Edu Classes, New Sahakar Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+253     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+254     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+255     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+256     MATCHING STATES
+        -->  ProActive IT Services Pvt. Ltd., Deo Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+257     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+258     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+259     # CHANGING QUERY(1)
+        # CHANGING QUERY(2)
+        # CHANGING QUERY(3)
+        NOT VERIFIED
+260     # CHANGING QUERY(1)
+        -->  Krishna Consultants, Nagpur, Maharashtra 440022, India
+        PINCODE PRESENCE IN PREDICTION CONFIRMED
+        RES:  VERIFIED
+261     MATCHING STATES
+        -->  MEZPA- Interview Mentor, Ring Road, Pratap Nagar, Nagpur, Maharashtra, India
+        STATE MATCHED
+        RES:  VERIFIED
+####################
+VERIFIED     :  122
+NOT VERIFIED :  138
+####################
+
+UPDAING ADDRESS
+ADDRESS UPDATED FOR ROW :  5
+ADDRESS UPDATED FOR ROW :  7
+ADDRESS UPDATED FOR ROW :  9
+ADDRESS UPDATED FOR ROW :  10
+ADDRESS UPDATED FOR ROW :  11
+ADDRESS UPDATED FOR ROW :  12
+ADDRESS UPDATED FOR ROW :  13
+ADDRESS UPDATED FOR ROW :  15
+ADDRESS UPDATED FOR ROW :  19
+ADDRESS UPDATED FOR ROW :  22
+ADDRESS UPDATED FOR ROW :  23
+ADDRESS UPDATED FOR ROW :  25
+ADDRESS UPDATED FOR ROW :  26
+ADDRESS UPDATED FOR ROW :  27
+ADDRESS UPDATED FOR ROW :  28
+ADDRESS UPDATED FOR ROW :  29
+ADDRESS UPDATED FOR ROW :  38
+ADDRESS UPDATED FOR ROW :  40
+ADDRESS UPDATED FOR ROW :  41
+ADDRESS UPDATED FOR ROW :  43
+ADDRESS UPDATED FOR ROW :  44
+ADDRESS UPDATED FOR ROW :  45
+ADDRESS UPDATED FOR ROW :  46
+ADDRESS UPDATED FOR ROW :  47
+ADDRESS UPDATED FOR ROW :  49
+ADDRESS UPDATED FOR ROW :  52
+ADDRESS UPDATED FOR ROW :  53
+ADDRESS UPDATED FOR ROW :  54
+ADDRESS UPDATED FOR ROW :  55
+ADDRESS UPDATED FOR ROW :  56
+ADDRESS UPDATED FOR ROW :  57
+ADDRESS UPDATED FOR ROW :  58
+ADDRESS UPDATED FOR ROW :  59
+ADDRESS UPDATED FOR ROW :  60
+ADDRESS UPDATED FOR ROW :  63
+ADDRESS UPDATED FOR ROW :  66
+ADDRESS UPDATED FOR ROW :  67
+ADDRESS UPDATED FOR ROW :  68
+ADDRESS UPDATED FOR ROW :  69
+ADDRESS UPDATED FOR ROW :  70
+ADDRESS UPDATED FOR ROW :  71
+ADDRESS UPDATED FOR ROW :  73
+ADDRESS UPDATED FOR ROW :  76
+ADDRESS UPDATED FOR ROW :  79
+ADDRESS UPDATED FOR ROW :  80
+ADDRESS UPDATED FOR ROW :  82
+ADDRESS UPDATED FOR ROW :  84
+ADDRESS UPDATED FOR ROW :  85
+ADDRESS UPDATED FOR ROW :  86
+ADDRESS UPDATED FOR ROW :  89
+ADDRESS UPDATED FOR ROW :  91
+ADDRESS UPDATED FOR ROW :  92
+ADDRESS UPDATED FOR ROW :  93
+ADDRESS UPDATED FOR ROW :  95
+ADDRESS UPDATED FOR ROW :  96
+ADDRESS UPDATED FOR ROW :  97
+ADDRESS UPDATED FOR ROW :  98
+ADDRESS UPDATED FOR ROW :  99
+ADDRESS UPDATED FOR ROW :  104
+ADDRESS UPDATED FOR ROW :  105
+ADDRESS UPDATED FOR ROW :  107
+ADDRESS UPDATED FOR ROW :  108
+ADDRESS UPDATED FOR ROW :  109
+ADDRESS UPDATED FOR ROW :  110
+ADDRESS UPDATED FOR ROW :  112
+ADDRESS UPDATED FOR ROW :  115
+ADDRESS UPDATED FOR ROW :  117
+ADDRESS UPDATED FOR ROW :  118
+ADDRESS UPDATED FOR ROW :  119
+ADDRESS UPDATED FOR ROW :  120
+ADDRESS UPDATED FOR ROW :  121
+ADDRESS UPDATED FOR ROW :  122
+ADDRESS UPDATED FOR ROW :  123
+ADDRESS UPDATED FOR ROW :  125
+ADDRESS UPDATED FOR ROW :  132
+ADDRESS UPDATED FOR ROW :  134
+ADDRESS UPDATED FOR ROW :  138
+ADDRESS UPDATED FOR ROW :  139
+ADDRESS UPDATED FOR ROW :  141
+ADDRESS UPDATED FOR ROW :  145
+ADDRESS UPDATED FOR ROW :  148
+ADDRESS UPDATED FOR ROW :  151
+ADDRESS UPDATED FOR ROW :  155
+ADDRESS UPDATED FOR ROW :  156
+ADDRESS UPDATED FOR ROW :  157
+ADDRESS UPDATED FOR ROW :  159
+ADDRESS UPDATED FOR ROW :  161
+ADDRESS UPDATED FOR ROW :  164
+ADDRESS UPDATED FOR ROW :  166
+ADDRESS UPDATED FOR ROW :  167
+ADDRESS UPDATED FOR ROW :  168
+ADDRESS UPDATED FOR ROW :  169
+ADDRESS UPDATED FOR ROW :  170
+ADDRESS UPDATED FOR ROW :  175
+ADDRESS UPDATED FOR ROW :  177
+ADDRESS UPDATED FOR ROW :  179
+ADDRESS UPDATED FOR ROW :  186
+ADDRESS UPDATED FOR ROW :  187
+ADDRESS UPDATED FOR ROW :  193
+ADDRESS UPDATED FOR ROW :  200
+ADDRESS UPDATED FOR ROW :  203
+ADDRESS UPDATED FOR ROW :  208
+ADDRESS UPDATED FOR ROW :  210
+ADDRESS UPDATED FOR ROW :  211
+ADDRESS UPDATED FOR ROW :  213
+ADDRESS UPDATED FOR ROW :  214
+ADDRESS UPDATED FOR ROW :  215
+ADDRESS UPDATED FOR ROW :  216
+ADDRESS UPDATED FOR ROW :  218
+ADDRESS UPDATED FOR ROW :  225
+ADDRESS UPDATED FOR ROW :  227
+ADDRESS UPDATED FOR ROW :  230
+ADDRESS UPDATED FOR ROW :  231
+ADDRESS UPDATED FOR ROW :  232
+ADDRESS UPDATED FOR ROW :  234
+ADDRESS UPDATED FOR ROW :  242
+ADDRESS UPDATED FOR ROW :  244
+ADDRESS UPDATED FOR ROW :  249
+ADDRESS UPDATED FOR ROW :  252
+ADDRESS UPDATED FOR ROW :  256
+ADDRESS UPDATED FOR ROW :  260
+ADDRESS UPDATED FOR ROW :  261

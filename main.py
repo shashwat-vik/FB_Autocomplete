@@ -140,7 +140,7 @@ class processGraph(Extra):
         print '\tNO PHONE MATCHED'
         return False
 
-    def analyze_prediction(self,row,state,query,allow_website_match):
+    def analyze_prediction(self,row,query,allow_website_match):
         print '\tQUERY : ',query
         probable = False
         city,pin=row['City'].lower(),row['Pincode']
@@ -183,7 +183,7 @@ class processGraph(Extra):
             if 'emails' in place and email:
                 for x in place['emails']:
                     if x == email:
-                        print '\tEMAIL MATCHED ###'
+                        print '\tEMAIL MATCHED ***'
                         node = self.graph.get(place['id']+"?fields=name,location,is_verified,description,phone,link,cover,website,emails")
                         print json.dumps(node,indent=4,cls=DecimalEncoder)
                         return True,False,node
@@ -227,27 +227,20 @@ class processGraph(Extra):
         node = ''
 
         query = row['Name']
-        matched,probable,node=self.analyze_prediction(row,state,query,False)
+        matched,probable,node=self.analyze_prediction(row,query,False)
 
         #'''
         if not matched and row['Locality']:
             print '\t# CHANGING QUERY(1)'
             query = row['Name'] + ', ' + row['Locality']
-            matched,probable,node=self.analyze_prediction(row,state,query,True)
+            matched,probable,node=self.analyze_prediction(row,query,True)
         #'''
-
-        '''
-        if not matched and row['Pincode']:
-            print '\t# CHANGING QUERY(1.5)'
-            query = row['Name'] + ', ' + row['Pincode']
-            matched,probable,node=self.analyze_prediction(row,state,query,True)
-        '''
 
         #'''
         if not matched:
             print '\t# CHANGING QUERY(2)'
             query = row['Name'] + ', ' + state
-            matched,probable,node=self.analyze_prediction(row,state,query,True)
+            matched,probable,node=self.analyze_prediction(row,query,True)
         #'''
 
         if matched:
@@ -304,7 +297,7 @@ class processGraph(Extra):
 
 def get_data():
     rows = []
-    file_name = glob.glob('../../scrap-preprocessor/input/scrap_thrissur_output_1.csv')
+    file_name = glob.glob('../../scrap-preprocessor/input/scrap_rajkot_output_1.csv')
     inputFile = open(file_name[0],'r')
     reader = csv.DictReader(inputFile,dialect=csv.excel)
     rows.extend(reader)

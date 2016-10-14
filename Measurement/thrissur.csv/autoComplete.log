@@ -1,0 +1,3837 @@
+['./input/scrap_thrissur_output_1.csv']
+
+Current file is ./input/scrap_thrissur_output_1.csv 
+
+
+RUNNING AUTOCOMPLETE
+STATE :  Kerala
+2 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+3 	MATCHING STATES
+	-->  Alpha Building Services, Kuthiravattom, Kozhikode, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+4 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+5 	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Focuz Infotech, Edappally, Ernakulam, Kerala 682024, India
+	-->  Focuz Infotech Advanced Education, Edappally, Ernakulam, Kerala 682024, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9995773140']
+	||   > NEW :  4842333236
+	||   > NEW :  
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://focuzinfotech.com
+	||   > NEW :  http://www.focuzinfotech.com/
+	||   > NEW :  http://www.focuzinfotech.in/
+	WEBSITE MATCHED
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+6 	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+7 	MATCHING STATES
+	-->  Tritech Design Academy, Kalamassery, Ernakulam, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+8 	MATCHING STATES
+	-->  BIMIT CAD and BIM Training, Kaloor - Kadavanthara Road, Kaloor, Kochi, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+9 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9349033288', ' 8129824083']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://cadcenter.org
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  http://www.caddcentre.ws/
+	||   > NEW :  https://www.caddcentre.ws
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+10 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+11 	MATCHING STATES
+	-->  Marc-D Automation pvt.ltd., Poothole, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+12 	MATCHING STATES
+	-->  CADD CENTRE, Pettumma, Kodungallur, Kerala, India
+	-->  Cadd Centre, Kodungallur - Shornur Road, Irinjalakuda, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 3296727']
+	||   > NEW :  4803296727
+	|| PHONE NUMBERS MATCHED
+	RES:  VERIFIED
+13 	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala 680001, India
+	-->  CADD CENTRE, CITY CENTRE, Swaraj Round West, Naikkanal, Thrissur, Kerala 680001, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9847758370']
+	||   > NEW :  4872424481
+	||   > NEW :  8606150011
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://caddcentre.ws
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.uitgroupindia.com/
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, CITY CENTRE, Swaraj Round West, Naikkanal, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9847758370']
+	||   > NEW :  4872424481
+	||   > NEW :  8606150011
+	||   > NEW :  4885320039
+	||   > NEW :  9744555159
+	||   > NEW :  4803296727
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://caddcentre.ws
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.uitgroupindia.com/
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.ws/
+	WEBSITE MATCHED
+	RES:  VERIFIED
+14 	MATCHING STATES
+	-->  DreamZone, Chalakudy, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+15 	# CHANGING QUERY(1)
+	-->  CMS Computer Institute, Thrissur, Kerala 680004, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+16 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+17 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+18 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Dreamzone Thrissur, Kuruppam Road, Kuruppam, Thrissur, Kerala, India
+	-->  DreamZone, Thrissur, Kerala, India
+	-->  DreamZone, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['8547052596']
+	||   > NEW :  4873290913
+	||   > NEW :  9809698969
+	||   > NEW :  4803250913
+	NO PHONE MATCHED
+	NOT VERIFIED
+19 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9539005452', ' 9497257312']
+	||   > NEW :  4872382130
+	||   > NEW :  4872388999
+	||   > NEW :  4872381125
+	||   > NEW :  4872380497
+	||   > NEW :  
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://octagonqc.com
+	||   > NEW :  http://westforthospitalgroup.com/
+	||   > NEW :  http://www.westforthospitalgroup.com/hitech/index.html
+	||   > NEW :  http://www.thrissurdcb.com
+	||   > NEW :  
+	||   > NEW :  
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+20 	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9567763448']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	|| PHONE NUMBERS MATCHED
+	RES:  VERIFIED
+21 	MATCHING STATES
+	-->  SMEClabs, Kaloor, Kochi, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+22 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 3101922', ' 8590922922']
+	||   > NEW :  4872424192
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://livewireindia.com
+	||   > NEW :  http://www.keralapolice.org/
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+23 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+24 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+25 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Vidya Academy of Science and Technology, Velur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+26 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+27 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+28 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+29 	MATCHING STATES
+	-->  Accel IT Resource Ltd.,, Nelson Manickam Road, Aminjikarai, Chennai, Tamil Nadu, India
+	NO STATE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['+91 44 33054309']
+	||   > NEW :  4442251230
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://accelitacademy.com
+	||   > NEW :  http://www.accelitacademy.com
+	WEBSITE MATCHED
+	RES:  VERIFIED
+30 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+31 	# CHANGING QUERY(2)
+	NOT VERIFIED
+32 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+33 	# CHANGING QUERY(2)
+	NOT VERIFIED
+34 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+35 	# CHANGING QUERY(2)
+	NOT VERIFIED
+36 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 3101922', ' 8590922922']
+	||   > NEW :  4872424192
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://livewireindia.com
+	||   > NEW :  http://www.keralapolice.org/
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+37 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Vidya Academy of Science and Technology, Velur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+38 	# CHANGING QUERY(1)
+	-->  Cloud Experts, 16th Main Road, MCHS Colony, Bengaluru, Karnataka 560069, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+39 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+40 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+41 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+42 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2804290']
+	||   > NEW :  4802800800
+	||   > NEW :  4802802101
+	||   > NEW :  8547851317
+	NO PHONE MATCHED
+	NOT VERIFIED
+43 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  IRS Computers, Mundur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+44 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  IRS Computers, Mundur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+45 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+46 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Vidya Academy of Science and Technology, Velur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+47 	# CHANGING QUERY(1)
+	-->  Indiaoptions Softwares Pvt. Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+48 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+49 	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Focuz Infotech, Edappally, Ernakulam, Kerala 682024, India
+	-->  Focuz Infotech Advanced Education, Edappally, Ernakulam, Kerala 682024, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9995773140']
+	||   > NEW :  4842333236
+	||   > NEW :  
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://focuzinfotech.com
+	||   > NEW :  http://www.focuzinfotech.com/
+	||   > NEW :  http://www.focuzinfotech.in/
+	WEBSITE MATCHED
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+50 	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+51 	MATCHING STATES
+	-->  Accel IT Resource Ltd.,, Nelson Manickam Road, Aminjikarai, Chennai, Tamil Nadu, India
+	NO STATE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['+91 44 33054309']
+	||   > NEW :  4442251230
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://accelitacademy.com
+	||   > NEW :  http://www.accelitacademy.com
+	WEBSITE MATCHED
+	RES:  VERIFIED
+52 	MATCHING STATES
+	-->  Aitrich Technologies Private Limited, MG Road, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+53 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9349033288', ' 8129824083']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://cadcenter.org
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  http://www.caddcentre.ws/
+	||   > NEW :  https://www.caddcentre.ws
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+54 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+55 	MATCHING STATES
+	-->  Aitrich Technologies, Mahatma Gandhi Road, Poothole, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+56 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+57 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+58 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+59 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2804290']
+	||   > NEW :  4802800800
+	||   > NEW :  4802802101
+	||   > NEW :  8547851317
+	NO PHONE MATCHED
+	NOT VERIFIED
+60 	MATCHING STATES
+	-->  DreamZone, Chalakudy, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+61 	# CHANGING QUERY(2)
+	NOT VERIFIED
+62 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+63 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Rays Lifestyle Hospital, Hyderabad, Telangana, India
+	-->  Rays Education, Kozhikode, Kerala, India
+	-->  Rays Public School, Bank Road, Tazhekkod, Kozhikode, Kerala, India
+	-->  Rays Fitness Studio, ज्येष्ठ समाजसेवक केशवराव प्रवीणचंद्र श्रौफ पथ, Baner, Pune, Maharashtra, India
+	-->  Ray's Cafe & Pizzeria, Mumbai, Maharashtra, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2322243']
+	||   > NEW :  4030001000
+	||   > NEW :  4952727355
+	||   > NEW :  4956442644
+	||   > NEW :  9552266199
+	||   > NEW :  2239652910
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://saarc.autodesk.com
+	||   > NEW :  
+	||   > NEW :  http://rayseducation.org/
+	||   > NEW :  http://www.rayseducation.org/
+	||   > NEW :  http://raysfitness6.wix.com/rays-fitness
+	||   > NEW :  http://www.rayscafeandpizzeria.com/
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+64 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CMS Computer Institute, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+65 	# CHANGING QUERY(1)
+	-->  CMS Computer Institute, Thrissur, Kerala 680004, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+66 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Frameboxx Animation | Visual Effects, Cama Road, Andheri West, Mumbai, Maharashtra, India
+	-->  Frameboxx Animation | Visual Effects Pvt. Ltd., Chandigarh, India
+	-->  Frameboxx Animation & Visual Effects, Pune, Maharashtra, India
+	-->  Frameboxx Animation & Visual Effects Pvt. Ltd., Kolkata, West Bengal, India
+	-->  Frameboxx Animation | Visual Effects Pvt. Ltd., Pune, Maharashtra, India
+	NO STATE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['080 - 41534771', ' 080 - 40993665', ' 9914226227']
+	||   > NEW :  2266753203
+	||   > NEW :  1722622620
+	||   > NEW :  9850900617
+	||   > NEW :  3322884549
+	||   > NEW :  2032395055
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://frameboxx.in
+	||   > NEW :  http://www.frameboxx.in/html
+	||   > NEW :  http://www.frameboxx.in/
+	||   > NEW :  http://www.frameboxx.in/
+	||   > NEW :  http://www.frameboxx.in/
+	||   > NEW :  http://www.frameboxx.in/html
+	MULTIPLE MATCHED
+	NOT VERIFIED
+67 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+68 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+69 	# CHANGING QUERY(2)
+	NOT VERIFIED
+70 	# CHANGING QUERY(2)
+	NOT VERIFIED
+71 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+72 	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9567763448']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	|| PHONE NUMBERS MATCHED
+	RES:  VERIFIED
+73 	# CHANGING QUERY(1)
+	-->  ATEES Infomedia Pvt Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+74 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+75 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9349033288', ' 8129824083']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://cadcenter.org
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  http://www.caddcentre.ws/
+	||   > NEW :  https://www.caddcentre.ws
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+76 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+77 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+78 	MATCHING STATES
+	-->  I-Net Infotech, Paramara Road, Kacheripady, Ernakulam, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+79 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+80 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+81 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+82 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+83 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Vidya Academy of Science and Technology, Velur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+84 	# CHANGING QUERY(1)
+	-->  Indiaoptions Softwares Pvt. Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+85 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9349033288', ' 8129824083']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://cadcenter.org
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  http://www.caddcentre.ws/
+	||   > NEW :  https://www.caddcentre.ws
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+86 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+87 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+88 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+89 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Vidya Academy of Science and Technology, Velur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+90 	# CHANGING QUERY(1)
+	-->  Indiaoptions Softwares Pvt. Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+91 	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Focuz Infotech, Edappally, Ernakulam, Kerala 682024, India
+	-->  Focuz Infotech Advanced Education, Edappally, Ernakulam, Kerala 682024, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9995773140']
+	||   > NEW :  4842333236
+	||   > NEW :  
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://focuzinfotech.com
+	||   > NEW :  http://www.focuzinfotech.com/
+	||   > NEW :  http://www.focuzinfotech.in/
+	WEBSITE MATCHED
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+92 	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+93 	MATCHING STATES
+	-->  Accel IT Resource Ltd.,, Nelson Manickam Road, Aminjikarai, Chennai, Tamil Nadu, India
+	NO STATE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['+91 44 33054309']
+	||   > NEW :  4442251230
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://accelitacademy.com
+	||   > NEW :  http://www.accelitacademy.com
+	WEBSITE MATCHED
+	RES:  VERIFIED
+94 	MATCHING STATES
+	-->  Aitrich Technologies Private Limited, MG Road, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+95 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9349033288', ' 8129824083']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://cadcenter.org
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  http://www.caddcentre.ws/
+	||   > NEW :  https://www.caddcentre.ws
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+96 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+97 	MATCHING STATES
+	-->  Aitrich Technologies, Mahatma Gandhi Road, Poothole, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+98 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+99 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+100 	# CHANGING QUERY(1)
+	-->  e-rise solutions, Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+101 	# CHANGING QUERY(2)
+	NOT VERIFIED
+102 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+103 	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9567763448']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	|| PHONE NUMBERS MATCHED
+	RES:  VERIFIED
+104 	MATCHING STATES
+	-->  I-Net Infotech, Paramara Road, Kacheripady, Ernakulam, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+105 	# CHANGING QUERY(1)
+	-->  ATEES Infomedia Pvt Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+106 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+107 	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Focuz Infotech, Edappally, Ernakulam, Kerala 682024, India
+	-->  Focuz Infotech Advanced Education, Edappally, Ernakulam, Kerala 682024, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9995773140']
+	||   > NEW :  4842333236
+	||   > NEW :  
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://focuzinfotech.com
+	||   > NEW :  http://www.focuzinfotech.com/
+	||   > NEW :  http://www.focuzinfotech.in/
+	WEBSITE MATCHED
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+108 	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+109 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+110 	# CHANGING QUERY(2)
+	NOT VERIFIED
+111 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+112 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+113 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+114 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+115 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+116 	# CHANGING QUERY(2)
+	NOT VERIFIED
+117 	MATCHING STATES
+	-->  Adept Technology Pvt Ltd, Ravipuram, Kochi, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+118 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+119 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Vidya Academy of Science and Technology, Velur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+120 	# CHANGING QUERY(1)
+	-->  Indiaoptions Softwares Pvt. Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+121 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+122 	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Focuz Infotech, Edappally, Ernakulam, Kerala 682024, India
+	-->  Focuz Infotech Advanced Education, Edappally, Ernakulam, Kerala 682024, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9995773140']
+	||   > NEW :  4842333236
+	||   > NEW :  
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://focuzinfotech.com
+	||   > NEW :  http://www.focuzinfotech.com/
+	||   > NEW :  http://www.focuzinfotech.in/
+	WEBSITE MATCHED
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+123 	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+124 	MATCHING STATES
+	-->  Accel IT Resource Ltd.,, Nelson Manickam Road, Aminjikarai, Chennai, Tamil Nadu, India
+	NO STATE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['+91 44 33054309']
+	||   > NEW :  4442251230
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://accelitacademy.com
+	||   > NEW :  http://www.accelitacademy.com
+	WEBSITE MATCHED
+	RES:  VERIFIED
+125 	MATCHING STATES
+	-->  Aitrich Technologies Private Limited, MG Road, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+126 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9349033288', ' 8129824083']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://cadcenter.org
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  http://www.caddcentre.ws/
+	||   > NEW :  https://www.caddcentre.ws
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+127 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+128 	MATCHING STATES
+	-->  Aitrich Technologies, Mahatma Gandhi Road, Poothole, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+129 	# CHANGING QUERY(1)
+	-->  Bootnet IT Solutions, Round North, Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+130 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+131 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+132 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+133 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2804290']
+	||   > NEW :  4802800800
+	||   > NEW :  4802802101
+	||   > NEW :  8547851317
+	NO PHONE MATCHED
+	NOT VERIFIED
+134 	MATCHING STATES
+	-->  DreamZone, Chalakudy, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+135 	MATCHING STATES
+	-->  Gyan Technologies, Chelakkara, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+136 	# CHANGING QUERY(2)
+	NOT VERIFIED
+137 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+138 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Rays Lifestyle Hospital, Hyderabad, Telangana, India
+	-->  Rays Education, Kozhikode, Kerala, India
+	-->  Rays Public School, Bank Road, Tazhekkod, Kozhikode, Kerala, India
+	-->  Rays Fitness Studio, ज्येष्ठ समाजसेवक केशवराव प्रवीणचंद्र श्रौफ पथ, Baner, Pune, Maharashtra, India
+	-->  Ray's Cafe & Pizzeria, Mumbai, Maharashtra, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2322243']
+	||   > NEW :  4030001000
+	||   > NEW :  4952727355
+	||   > NEW :  4956442644
+	||   > NEW :  9552266199
+	||   > NEW :  2239652910
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://saarc.autodesk.com
+	||   > NEW :  
+	||   > NEW :  http://rayseducation.org/
+	||   > NEW :  http://www.rayseducation.org/
+	||   > NEW :  http://raysfitness6.wix.com/rays-fitness
+	||   > NEW :  http://www.rayscafeandpizzeria.com/
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+139 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+140 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+141 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+142 	# CHANGING QUERY(2)
+	NOT VERIFIED
+143 	# CHANGING QUERY(2)
+	NOT VERIFIED
+144 	MATCHING STATES
+	-->  Soften Technologies, Kadavanthra, Kochi, Kerala, India
+	-->  Soften Technologies, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['8129701739', ' 8129199511']
+	||   > NEW :  4844037036
+	||   > NEW :  4844037036
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://softentec.com
+	||   > NEW :  http://www.softentec.com/
+	||   > NEW :  http://www.softentec.com/
+	MULTIPLE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Soften Technologies, Kochi, Kerala 682020, India
+	-->  Soften Technologies, Kadavanthra, Ernakulam, Kerala 682020, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['8129701739', ' 8129199511']
+	||   > NEW :  4844037036
+	||   > NEW :  4844037036
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://softentec.com
+	||   > NEW :  http://www.softentec.com/
+	||   > NEW :  http://www.softentec.com/
+	MULTIPLE MATCHED
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+145 	# CHANGING QUERY(2)
+	NOT VERIFIED
+146 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+147 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+148 	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9567763448']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	|| PHONE NUMBERS MATCHED
+	RES:  VERIFIED
+149 	MATCHING STATES
+	-->  I-Net Infotech, Paramara Road, Kacheripady, Ernakulam, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+150 	# CHANGING QUERY(1)
+	-->  ATEES Infomedia Pvt Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+151 	MATCHING STATES
+	-->  OCIUZ technologies, Mahatma Gandhi Road, Poothole, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+152 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+153 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Vidya Academy of Science and Technology, Velur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+154 	# CHANGING QUERY(1)
+	-->  Indiaoptions Softwares Pvt. Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+155 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+156 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+157 	MATCHING STATES
+	-->  Accel IT Resource Ltd.,, Nelson Manickam Road, Aminjikarai, Chennai, Tamil Nadu, India
+	NO STATE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['+91 44 33054309']
+	||   > NEW :  4442251230
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://accelitacademy.com
+	||   > NEW :  http://www.accelitacademy.com
+	WEBSITE MATCHED
+	RES:  VERIFIED
+158 	MATCHING STATES
+	-->  Aitrich Technologies Private Limited, MG Road, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+159 	# CHANGING QUERY(1)
+	-->  Bootnet IT Solutions, Round North, Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+160 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+161 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+162 	# CHANGING QUERY(2)
+	NOT VERIFIED
+163 	# CHANGING QUERY(2)
+	NOT VERIFIED
+164 	# CHANGING QUERY(2)
+	NOT VERIFIED
+165 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+166 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 3101922', ' 8590922922']
+	||   > NEW :  4872424192
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://livewireindia.com
+	||   > NEW :  http://www.keralapolice.org/
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+167 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+168 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  ipsr solutions ltd Thrissur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+169 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+170 	# CHANGING QUERY(1)
+	-->  Indiaoptions Softwares Pvt. Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+171 	MATCHING STATES
+	-->  Aitrich Technologies Private Limited, MG Road, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+172 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9349033288', ' 8129824083']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://cadcenter.org
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  http://www.caddcentre.ws/
+	||   > NEW :  https://www.caddcentre.ws
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+173 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+174 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+175 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+176 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+177 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+178 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+179 	MATCHING STATES
+	-->  BIMIT CAD and BIM Training, Kaloor - Kadavanthara Road, Kaloor, Kochi, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+180 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+181 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9349033288', ' 8129824083']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://cadcenter.org
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  http://www.caddcentre.ws/
+	||   > NEW :  https://www.caddcentre.ws
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+182 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+183 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+184 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+185 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2804290']
+	||   > NEW :  4802800800
+	||   > NEW :  4802802101
+	||   > NEW :  8547851317
+	NO PHONE MATCHED
+	NOT VERIFIED
+186 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  IRS Computers, Mundur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+187 	# CHANGING QUERY(2)
+	NOT VERIFIED
+188 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 3101922', ' 8590922922']
+	||   > NEW :  4872424192
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://livewireindia.com
+	||   > NEW :  http://www.keralapolice.org/
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+189 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+190 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9349033288', ' 8129824083']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://cadcenter.org
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  http://www.caddcentre.ws/
+	||   > NEW :  https://www.caddcentre.ws
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+191 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  IRS Computers, Mundur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+192 	MATCHING STATES
+	-->  Aitrich Technologies Private Limited, MG Road, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+193 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+194 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Vidya Academy of Science and Technology, Velur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+195 	# CHANGING QUERY(1)
+	-->  Indiaoptions Softwares Pvt. Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+196 	MATCHING STATES
+	-->  Aitrich Technologies Private Limited, MG Road, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+197 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9349033288', ' 8129824083']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://cadcenter.org
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  http://www.caddcentre.ws/
+	||   > NEW :  https://www.caddcentre.ws
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+198 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+199 	MATCHING STATES
+	-->  Adept Technology Pvt Ltd, Ravipuram, Kochi, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+200 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+201 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Vidya Academy of Science and Technology, Velur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+202 	# CHANGING QUERY(1)
+	-->  Indiaoptions Softwares Pvt. Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+203 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+204 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+205 	MATCHING STATES
+	-->  Accel IT Resource Ltd.,, Nelson Manickam Road, Aminjikarai, Chennai, Tamil Nadu, India
+	NO STATE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['+91 44 33054309']
+	||   > NEW :  4442251230
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://accelitacademy.com
+	||   > NEW :  http://www.accelitacademy.com
+	WEBSITE MATCHED
+	RES:  VERIFIED
+206 	MATCHING STATES
+	-->  Aitrich Technologies Private Limited, MG Road, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+207 	# CHANGING QUERY(1)
+	-->  Bootnet IT Solutions, Round North, Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+208 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2804290']
+	||   > NEW :  4802800800
+	||   > NEW :  4802802101
+	||   > NEW :  8547851317
+	NO PHONE MATCHED
+	NOT VERIFIED
+209 	# CHANGING QUERY(2)
+	NOT VERIFIED
+210 	MATCHING STATES
+	-->  Soften Technologies, Kadavanthra, Kochi, Kerala, India
+	-->  Soften Technologies, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['8129701739', ' 8129199511']
+	||   > NEW :  4844037036
+	||   > NEW :  4844037036
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://softentec.com
+	||   > NEW :  http://www.softentec.com/
+	||   > NEW :  http://www.softentec.com/
+	MULTIPLE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Soften Technologies, Kochi, Kerala 682020, India
+	-->  Soften Technologies, Kadavanthra, Ernakulam, Kerala 682020, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['8129701739', ' 8129199511']
+	||   > NEW :  4844037036
+	||   > NEW :  4844037036
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://softentec.com
+	||   > NEW :  http://www.softentec.com/
+	||   > NEW :  http://www.softentec.com/
+	MULTIPLE MATCHED
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+211 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+212 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 3101922', ' 8590922922']
+	||   > NEW :  4872424192
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://livewireindia.com
+	||   > NEW :  http://www.keralapolice.org/
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+213 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+214 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0484 - 4070888', ' 9447730850', ' 9846913104']
+	||   > NEW :  
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://thulasigroup.com
+	||   > NEW :  
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+215 	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Focuz Infotech, Edappally, Ernakulam, Kerala 682024, India
+	-->  Focuz Infotech Advanced Education, Edappally, Ernakulam, Kerala 682024, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9995773140']
+	||   > NEW :  4842333236
+	||   > NEW :  
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://focuzinfotech.com
+	||   > NEW :  http://www.focuzinfotech.com/
+	||   > NEW :  http://www.focuzinfotech.in/
+	WEBSITE MATCHED
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+216 	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+217 	MATCHING STATES
+	-->  Accel IT Resource Ltd.,, Nelson Manickam Road, Aminjikarai, Chennai, Tamil Nadu, India
+	NO STATE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['+91 44 33054309']
+	||   > NEW :  4442251230
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://accelitacademy.com
+	||   > NEW :  http://www.accelitacademy.com
+	WEBSITE MATCHED
+	RES:  VERIFIED
+218 	MATCHING STATES
+	-->  Aptech Limited, Ravipuram, Ernakulam, Kerala, India
+	-->  Aptech Computer Education, Mahatma Gandhi Road, Ravipuram, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9747005288']
+	||   > NEW :  4844144555
+	||   > NEW :  4844144555
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://aptechkochi.com
+	||   > NEW :  http://www.aptech-education.com/
+	||   > NEW :  http://www.aptechkochi.com
+	WEBSITE MATCHED
+	RES:  VERIFIED
+219 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9349033288', ' 8129824083']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://cadcenter.org
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  http://www.caddcentre.ws/
+	||   > NEW :  https://www.caddcentre.ws
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+220 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+221 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+222 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+223 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+224 	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9567763448']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	|| PHONE NUMBERS MATCHED
+	RES:  VERIFIED
+225 	MATCHING STATES
+	-->  SMEClabs, Kaloor, Kochi, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+226 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 3101922', ' 8590922922']
+	||   > NEW :  4872424192
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://livewireindia.com
+	||   > NEW :  http://www.keralapolice.org/
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+227 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+228 	# CHANGING QUERY(1)
+	-->  ATEES Infomedia Pvt Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+229 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+230 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+231 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+232 	# CHANGING QUERY(2)
+	NOT VERIFIED
+233 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+234 	MATCHING STATES
+	-->  Adept Technology Pvt Ltd, Ravipuram, Kochi, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+235 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 3101922', ' 8590922922']
+	||   > NEW :  4872424192
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://livewireindia.com
+	||   > NEW :  http://www.keralapolice.org/
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+236 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+237 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+238 	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Focuz Infotech, Edappally, Ernakulam, Kerala 682024, India
+	-->  Focuz Infotech Advanced Education, Edappally, Ernakulam, Kerala 682024, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9995773140']
+	||   > NEW :  4842333236
+	||   > NEW :  
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://focuzinfotech.com
+	||   > NEW :  http://www.focuzinfotech.com/
+	||   > NEW :  http://www.focuzinfotech.in/
+	WEBSITE MATCHED
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+239 	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+240 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+241 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+242 	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9567763448']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	|| PHONE NUMBERS MATCHED
+	RES:  VERIFIED
+243 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Vidya Academy of Science and Technology, Velur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+244 	MATCHING STATES
+	-->  Tritech Design Academy, Kalamassery, Ernakulam, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+245 	MATCHING STATES
+	-->  BIMIT CAD and BIM Training, Kaloor - Kadavanthara Road, Kaloor, Kochi, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+246 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9349033288', ' 8129824083']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://cadcenter.org
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  http://www.caddcentre.ws/
+	||   > NEW :  https://www.caddcentre.ws
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+247 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+248 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  NIIT Thrissur Centre, Kodungallur - Shornur Road, Naikkanal, Thrissur, Kerala, India
+	-->  NIIT-Irinjalakuda, Irinjalakuda, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2331047']
+	||   > NEW :  4873242197
+	||   > NEW :  4802828228
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+249 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+250 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+251 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2804290']
+	||   > NEW :  4802800800
+	||   > NEW :  4802802101
+	||   > NEW :  8547851317
+	NO PHONE MATCHED
+	NOT VERIFIED
+252 	# CHANGING QUERY(2)
+	NOT VERIFIED
+253 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+254 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Rays Lifestyle Hospital, Hyderabad, Telangana, India
+	-->  Rays Education, Kozhikode, Kerala, India
+	-->  Rays Public School, Bank Road, Tazhekkod, Kozhikode, Kerala, India
+	-->  Rays Fitness Studio, ज्येष्ठ समाजसेवक केशवराव प्रवीणचंद्र श्रौफ पथ, Baner, Pune, Maharashtra, India
+	-->  Ray's Cafe & Pizzeria, Mumbai, Maharashtra, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2322243']
+	||   > NEW :  4030001000
+	||   > NEW :  4952727355
+	||   > NEW :  4956442644
+	||   > NEW :  9552266199
+	||   > NEW :  2239652910
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://saarc.autodesk.com
+	||   > NEW :  
+	||   > NEW :  http://rayseducation.org/
+	||   > NEW :  http://www.rayseducation.org/
+	||   > NEW :  http://raysfitness6.wix.com/rays-fitness
+	||   > NEW :  http://www.rayscafeandpizzeria.com/
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+255 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Frameboxx Animation | Visual Effects, Cama Road, Andheri West, Mumbai, Maharashtra, India
+	-->  Frameboxx Animation | Visual Effects Pvt. Ltd., Chandigarh, India
+	-->  Frameboxx Animation & Visual Effects, Pune, Maharashtra, India
+	-->  Frameboxx Animation & Visual Effects Pvt. Ltd., Kolkata, West Bengal, India
+	-->  Frameboxx Animation | Visual Effects Pvt. Ltd., Pune, Maharashtra, India
+	NO STATE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['080 - 41534771', ' 080 - 40993665', ' 9914226227']
+	||   > NEW :  2266753203
+	||   > NEW :  1722622620
+	||   > NEW :  9850900617
+	||   > NEW :  3322884549
+	||   > NEW :  2032395055
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://frameboxx.in
+	||   > NEW :  http://www.frameboxx.in/html
+	||   > NEW :  http://www.frameboxx.in/
+	||   > NEW :  http://www.frameboxx.in/
+	||   > NEW :  http://www.frameboxx.in/
+	||   > NEW :  http://www.frameboxx.in/html
+	MULTIPLE MATCHED
+	NOT VERIFIED
+256 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Arena Animation Thrissur, West Palace Road, Patturaikkal, Thrissur, Kerala, India
+	-->  ARENA ANIMATION, Palace Road, Thrissur, Kerala, India
+	-->  Arena Animation, Round East, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2500599']
+	||   > NEW :  9847101214
+	||   > NEW :  4872337506
+	||   > NEW :  4872975154
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://arena-multimedia.com
+	||   > NEW :  http://www.arena-multimedia.com/
+	||   > NEW :  http://www.arena-multimedia.com
+	||   > NEW :  http://www.arenathrissur.com/
+	MULTIPLE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+257 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Dreamzone Thrissur, Kuruppam Road, Kuruppam, Thrissur, Kerala, India
+	-->  DreamZone, Thrissur, Kerala, India
+	-->  DreamZone, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['8547052596']
+	||   > NEW :  4873290913
+	||   > NEW :  9809698969
+	||   > NEW :  4803250913
+	NO PHONE MATCHED
+	NOT VERIFIED
+258 	# CHANGING QUERY(2)
+	NOT VERIFIED
+259 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+260 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+261 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Vidya Academy of Science and Technology, Velur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+262 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0484 - 4070888', ' 9447730850', ' 9846913104']
+	||   > NEW :  
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://thulasigroup.com
+	||   > NEW :  
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+263 	# CHANGING QUERY(1)
+	-->  Indiaoptions Softwares Pvt. Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+264 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+265 	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Focuz Infotech, Edappally, Ernakulam, Kerala 682024, India
+	-->  Focuz Infotech Advanced Education, Edappally, Ernakulam, Kerala 682024, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9995773140']
+	||   > NEW :  4842333236
+	||   > NEW :  
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://focuzinfotech.com
+	||   > NEW :  http://www.focuzinfotech.com/
+	||   > NEW :  http://www.focuzinfotech.in/
+	WEBSITE MATCHED
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+266 	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala 682020, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9846070981']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	NO PHONE MATCHED
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+267 	MATCHING STATES
+	-->  Aitrich Technologies Private Limited, MG Road, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+268 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9349033288', ' 8129824083']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://cadcenter.org
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  http://www.caddcentre.ws/
+	||   > NEW :  https://www.caddcentre.ws
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+269 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+270 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  NIIT Thrissur Centre, Kodungallur - Shornur Road, Naikkanal, Thrissur, Kerala, India
+	-->  NIIT-Irinjalakuda, Irinjalakuda, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2331047']
+	||   > NEW :  4873242197
+	||   > NEW :  4802828228
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+271 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+272 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2804290']
+	||   > NEW :  4802800800
+	||   > NEW :  4802802101
+	||   > NEW :  8547851317
+	NO PHONE MATCHED
+	NOT VERIFIED
+273 	# CHANGING QUERY(2)
+	NOT VERIFIED
+274 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+275 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Rays Lifestyle Hospital, Hyderabad, Telangana, India
+	-->  Rays Education, Kozhikode, Kerala, India
+	-->  Rays Public School, Bank Road, Tazhekkod, Kozhikode, Kerala, India
+	-->  Rays Fitness Studio, ज्येष्ठ समाजसेवक केशवराव प्रवीणचंद्र श्रौफ पथ, Baner, Pune, Maharashtra, India
+	-->  Ray's Cafe & Pizzeria, Mumbai, Maharashtra, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2322243']
+	||   > NEW :  4030001000
+	||   > NEW :  4952727355
+	||   > NEW :  4956442644
+	||   > NEW :  9552266199
+	||   > NEW :  2239652910
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://saarc.autodesk.com
+	||   > NEW :  
+	||   > NEW :  http://rayseducation.org/
+	||   > NEW :  http://www.rayseducation.org/
+	||   > NEW :  http://raysfitness6.wix.com/rays-fitness
+	||   > NEW :  http://www.rayscafeandpizzeria.com/
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+276 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+277 	MATCHING STATES
+	-->  Soften Technologies, Kadavanthra, Kochi, Kerala, India
+	-->  Soften Technologies, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['8129701739', ' 8129199511']
+	||   > NEW :  4844037036
+	||   > NEW :  4844037036
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://softentec.com
+	||   > NEW :  http://www.softentec.com/
+	||   > NEW :  http://www.softentec.com/
+	MULTIPLE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Soften Technologies, Kochi, Kerala 682020, India
+	-->  Soften Technologies, Kadavanthra, Ernakulam, Kerala 682020, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['8129701739', ' 8129199511']
+	||   > NEW :  4844037036
+	||   > NEW :  4844037036
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://softentec.com
+	||   > NEW :  http://www.softentec.com/
+	||   > NEW :  http://www.softentec.com/
+	MULTIPLE MATCHED
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+278 	MATCHING STATES
+	-->  Adept Technology Pvt Ltd, Ravipuram, Kochi, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+279 	MATCHING STATES
+	-->  Quest Innovative Solutions Pvt. Ltd., Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	-->  Quest Innovative Solutions Pvt Ltd, Sahodaran Ayyappan Road, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9567763448']
+	||   > NEW :  4842204109
+	||   > NEW :  9567763448
+	|| PHONE NUMBERS MATCHED
+	RES:  VERIFIED
+280 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+281 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+282 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9349033288', ' 8129824083']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://cadcenter.org
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  http://www.caddcentre.ws/
+	||   > NEW :  https://www.caddcentre.ws
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+283 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+284 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+285 	# CHANGING QUERY(1)
+	-->  Indiaoptions Softwares Pvt. Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+286 	MATCHING STATES
+	-->  Aitrich Technologies Private Limited, MG Road, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+287 	# CHANGING QUERY(1)
+	-->  Cloud Experts, 16th Main Road, MCHS Colony, Bengaluru, Karnataka 560069, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+288 	# CHANGING QUERY(2)
+	NOT VERIFIED
+289 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+290 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Rambus Network Academy, Thrissur, Kerala, India
+	-->  Rambus Network Academy, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 3298482', ' 9526333131']
+	||   > NEW :  9526333131
+	|| PHONE NUMBERS MATCHED
+	RES:  VERIFIED
+291 	MATCHING STATES
+	-->  Soften Technologies, Kadavanthra, Kochi, Kerala, India
+	-->  Soften Technologies, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['8129701739', ' 8129199511']
+	||   > NEW :  4844037036
+	||   > NEW :  4844037036
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://softentec.com
+	||   > NEW :  http://www.softentec.com/
+	||   > NEW :  http://www.softentec.com/
+	MULTIPLE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Soften Technologies, Kochi, Kerala 682020, India
+	-->  Soften Technologies, Kadavanthra, Ernakulam, Kerala 682020, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['8129701739', ' 8129199511']
+	||   > NEW :  4844037036
+	||   > NEW :  4844037036
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://softentec.com
+	||   > NEW :  http://www.softentec.com/
+	||   > NEW :  http://www.softentec.com/
+	MULTIPLE MATCHED
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+292 	# CHANGING QUERY(2)
+	NOT VERIFIED
+293 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+294 	MATCHING STATES
+	-->  Adept Technology Pvt Ltd, Ravipuram, Kochi, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+295 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 3101922', ' 8590922922']
+	||   > NEW :  4872424192
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://livewireindia.com
+	||   > NEW :  http://www.keralapolice.org/
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+296 	MATCHING STATES
+	-->  I-Net Infotech, Paramara Road, Kacheripady, Ernakulam, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+297 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+298 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+299 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+300 	MATCHING STATES
+	-->  BIMIT CAD and BIM Training, Kaloor - Kadavanthara Road, Kaloor, Kochi, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+301 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+302 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+303 	# CHANGING QUERY(2)
+	NOT VERIFIED
+304 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+305 	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Vidya Academy of Science and Technology, Velur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+306 	# CHANGING QUERY(1)
+	-->  Indiaoptions Softwares Pvt. Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+307 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+308 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+309 	MATCHING STATES
+	-->  Soften Technologies, Kadavanthra, Kochi, Kerala, India
+	-->  Soften Technologies, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['8129701739', ' 8129199511']
+	||   > NEW :  4844037036
+	||   > NEW :  4844037036
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://softentec.com
+	||   > NEW :  http://www.softentec.com/
+	||   > NEW :  http://www.softentec.com/
+	MULTIPLE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Soften Technologies, Kochi, Kerala 682020, India
+	-->  Soften Technologies, Kadavanthra, Ernakulam, Kerala 682020, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['8129701739', ' 8129199511']
+	||   > NEW :  4844037036
+	||   > NEW :  4844037036
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://softentec.com
+	||   > NEW :  http://www.softentec.com/
+	||   > NEW :  http://www.softentec.com/
+	MULTIPLE MATCHED
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+310 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+311 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+312 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+313 	# CHANGING QUERY(1)
+	-->  Indiaoptions Softwares Pvt. Ltd., Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+314 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+315 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+316 	MATCHING STATES
+	-->  Aptech Limited, Ravipuram, Ernakulam, Kerala, India
+	-->  Aptech Computer Education, Mahatma Gandhi Road, Ravipuram, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9747005288']
+	||   > NEW :  4844144555
+	||   > NEW :  4844144555
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://aptechkochi.com
+	||   > NEW :  http://www.aptech-education.com/
+	||   > NEW :  http://www.aptechkochi.com
+	WEBSITE MATCHED
+	RES:  VERIFIED
+317 	MATCHING STATES
+	-->  Aitrich Technologies Private Limited, MG Road, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+318 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['9349033288', ' 8129824083']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://cadcenter.org
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  http://www.caddcentre.ws/
+	||   > NEW :  https://www.caddcentre.ws
+	NO WEBSITE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+319 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+320 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Thrissur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Thrissur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Thrissur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2443243']
+	||   > NEW :  4872424481
+	||   > NEW :  4885320039
+	||   > NEW :  4803296727
+	||   > NEW :  9744555159
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+321 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2821423']
+	||   > NEW :  4802825228
+	||   > NEW :  4802826603
+	||   > NEW :  8111835000
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+322 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2507177']
+	||   > NEW :  
+	||   > NEW :  9037660441
+	||   > NEW :  4872507332
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+323 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Ace Computers, Veliyannur, Thrissur, Kerala, India
+	-->  ACE Computers, Thrissur, Kerala, India
+	-->  Ace Computers, Kodungallur - Shornur Road, Veliyannur, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2630281']
+	||   > NEW :  4872444455
+	||   > NEW :  4802824455
+	||   > NEW :  
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2630281']
+	||   > NEW :  
+	||   > NEW :  4872630339
+	NO PHONE MATCHED
+	NOT VERIFIED
+324 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2706455']
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  4802702419
+	||   > NEW :  9495246829
+	||   > NEW :  9562138080
+	NO PHONE MATCHED
+	NOT VERIFIED
+325 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2701791']
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  4802702419
+	||   > NEW :  9495246829
+	||   > NEW :  9562138080
+	NO PHONE MATCHED
+	NOT VERIFIED
+326 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2397057']
+	||   > NEW :  4872402770
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+327 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+328 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+329 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2330413']
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  4802702419
+	||   > NEW :  9495246829
+	||   > NEW :  9562138080
+	NO PHONE MATCHED
+	NOT VERIFIED
+330 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+331 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2541373']
+	||   > NEW :  4872542221
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+332 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2708315']
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  4802702419
+	||   > NEW :  9495246829
+	||   > NEW :  9562138080
+	NO PHONE MATCHED
+	NOT VERIFIED
+333 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2707682']
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  4802702419
+	||   > NEW :  9495246829
+	||   > NEW :  9562138080
+	NO PHONE MATCHED
+	NOT VERIFIED
+334 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2632376']
+	||   > NEW :  
+	||   > NEW :  4872630339
+	NO PHONE MATCHED
+	NOT VERIFIED
+335 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+336 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2861299']
+	||   > NEW :  9845088899
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+337 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2804824']
+	||   > NEW :  4802825228
+	||   > NEW :  4802826603
+	||   > NEW :  8111835000
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+338 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+339 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2706344']
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  4802702419
+	||   > NEW :  9495246829
+	||   > NEW :  9562138080
+	NO PHONE MATCHED
+	NOT VERIFIED
+340 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+341 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+342 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+343 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2509656']
+	||   > NEW :  
+	||   > NEW :  9037660441
+	||   > NEW :  4872507332
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+344 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2706898']
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  4802702419
+	||   > NEW :  9495246829
+	||   > NEW :  9562138080
+	NO PHONE MATCHED
+	NOT VERIFIED
+345 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Therattil Cyber World, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+346 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2393186']
+	||   > NEW :  4872424192
+	NO PHONE MATCHED
+	NOT VERIFIED
+347 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2502545']
+	||   > NEW :  
+	||   > NEW :  9037660441
+	||   > NEW :  4872507332
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+348 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2536847']
+	||   > NEW :  
+	||   > NEW :  4872630339
+	NO PHONE MATCHED
+	NOT VERIFIED
+349 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2375278']
+	||   > NEW :  18004255705
+	||   > NEW :  4872370157
+	||   > NEW :  4872373374
+	NO PHONE MATCHED
+	NOT VERIFIED
+350 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+351 	MATCHING STATES
+	-->  Diginet Systems Private Limited, Hyderabad, Telangana, India
+	NO STATE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2291510']
+	||   > NEW :  4023311021
+	NO PHONE MATCHED
+	# CHANGING QUERY(1)
+	-->  Diginet Systems Private Limited, Hyderabad, Telangana, India
+	REMOVED FOR INACCURACY OF PINCODE
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Diginet Systems Private Limited, Hyderabad, Telangana, India
+	NO STATE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2291510']
+	||   > NEW :  4023311021
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+352 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+353 	MATCHING STATES
+	-->  ET Now, Lower Parel, Mumbai, Maharashtra, India
+	-->  ET Marlabs, Bengaluru, Karnataka, India
+	-->  Et al The Lounge Bar, New Delhi, Delhi, India
+	-->  E.T. Kapuswala, Raviwar Peth, Pune, Maharashtra, India
+	-->  E.T.Reddiapatti, Virudhunagar, Tamil Nadu, India
+	NO STATE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2820873']
+	||   > NEW :  2224999944
+	||   > NEW :  8049386900
+	||   > NEW :  9999249331
+	||   > NEW :  2024476493
+	||   > NEW :  
+	NO PHONE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  ET Now, Lower Parel, Mumbai, Maharashtra, India
+	-->  ET Marlabs, Bengaluru, Karnataka, India
+	-->  Et al The Lounge Bar, New Delhi, Delhi, India
+	-->  E.T. Kapuswala, Raviwar Peth, Pune, Maharashtra, India
+	-->  E.T.Reddiapatti, Virudhunagar, Tamil Nadu, India
+	NO STATE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2820873']
+	||   > NEW :  2224999944
+	||   > NEW :  8049386900
+	||   > NEW :  9999249331
+	||   > NEW :  2024476493
+	||   > NEW :  
+	NO PHONE MATCHED
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  ET Now, Lower Parel, Mumbai, Maharashtra, India
+	-->  ET Marlabs, Bengaluru, Karnataka, India
+	-->  Et al The Lounge Bar, New Delhi, Delhi, India
+	-->  E.T. Kapuswala, Raviwar Peth, Pune, Maharashtra, India
+	-->  E.T.Reddiapatti, Virudhunagar, Tamil Nadu, India
+	NO STATE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2820873']
+	||   > NEW :  2224999944
+	||   > NEW :  8049386900
+	||   > NEW :  9999249331
+	||   > NEW :  2024476493
+	||   > NEW :  
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2820873']
+	||   > NEW :  4802825228
+	||   > NEW :  4802826603
+	||   > NEW :  8111835000
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+354 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2291763']
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+355 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2892950']
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+356 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  G-TEC Computer Education, Thrissur, Kerala, India
+	-->  G-Tec Computer Education, Amballur, Thrissur, Kerala, India
+	-->  G-TEC COMPUTER EDUCATION., Railway Station Road, Chalakudy, Thrissur, Kerala, India
+	-->  G-TEC COMPUTER EDUCATION, Chavakkad, Thrissur, Kerala, India
+	-->  G-TEC Computer Education, Mala, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2214325', ' 9605818181']
+	||   > NEW :  4873205600
+	||   > NEW :  4803207406
+	||   > NEW :  9544433355
+	||   > NEW :  9349070702
+	||   > NEW :  4803276327
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://gteceducation.com
+	||   > NEW :  http://www.gteceducation.com/
+	||   > NEW :  http://www.gteceducation.com/
+	||   > NEW :  http://gteceducation.com/.
+	||   > NEW :  http://www.gteceducation.com/
+	||   > NEW :  http://www.gteceducation.com/
+	MULTIPLE MATCHED
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2214325', ' 9605818181']
+	||   > NEW :  
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://gteceducation.com
+	||   > NEW :  http://www.indiapost.gov.in/
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+357 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2632102']
+	||   > NEW :  
+	||   > NEW :  4872630339
+	NO PHONE MATCHED
+	NOT VERIFIED
+358 	MATCHING STATES
+	-->  Glitz It Solutions, Aripalam, Irinjalakuda, Kerala, India
+	-->  Blitz & Glitz Fashion Store, Irinjalakuda, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2820544']
+	||   > NEW :  
+	||   > NEW :  9995788157
+	NO PHONE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Glitz It Solutions, Aripalam, Kerala 680121, India
+	-->  Blitz & Glitz Fashion Store, Irinjalakuda, Kerala 680121, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2820544']
+	||   > NEW :  
+	||   > NEW :  9995788157
+	NO PHONE MATCHED
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Glitz, Thrissur, Kerala, India
+	-->  Glitz IT Solutions, Koratty Infopark, Koratty, Thrissur, Kerala, India
+	-->  Glitz It Solutions, Aripalam, Thrissur, Kerala, India
+	-->  Blitz & Glitz Fashion Store, Irinjalakuda, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2820544']
+	||   > NEW :  4872321097
+	||   > NEW :  4802734544
+	||   > NEW :  
+	||   > NEW :  9995788157
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2820544']
+	||   > NEW :  4802825228
+	||   > NEW :  4802826603
+	||   > NEW :  8111835000
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+359 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+360 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2339827']
+	||   > NEW :  4872424192
+	NO PHONE MATCHED
+	NOT VERIFIED
+361 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2394971']
+	||   > NEW :  4872391236
+	NO PHONE MATCHED
+	NOT VERIFIED
+362 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+363 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  G-TEC Computer Education, Thrissur, Kerala, India
+	-->  G-Tec Computer Education, Amballur, Thrissur, Kerala, India
+	-->  G-Tec Computer Education, Thiruvilwamala, Thrissur, Kerala, India
+	-->  G Tec Computer Education, Ponnuparambil, Guruvayur, Thrissur, Kerala, India
+	-->  G Tech Computer Education, Outer Ring Road, East Nada, Guruvayur, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2372253']
+	||   > NEW :  4873205600
+	||   > NEW :  4803207406
+	||   > NEW :  4884283133
+	||   > NEW :  4954088333
+	||   > NEW :  4873205969
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2372253']
+	||   > NEW :  18004255705
+	||   > NEW :  4872370157
+	||   > NEW :  4872373374
+	NO PHONE MATCHED
+	NOT VERIFIED
+364 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2827737']
+	||   > NEW :  4802825228
+	||   > NEW :  4802826603
+	||   > NEW :  8111835000
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+365 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2211454']
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+366 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+367 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2211672']
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+368 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  IRS Computers, Thrissur, Kerala, India
+	-->  IRS Computers, Mahatma Gandhi Road, Thrissur, Kerala, India
+	-->  IRS Computers, Thrissur Kanjani Vadanappally Road, Kanjany, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2540807']
+	||   > NEW :  4872212121
+	||   > NEW :  4872324560
+	||   > NEW :  
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2540807']
+	||   > NEW :  
+	||   > NEW :  9037660441
+	||   > NEW :  4872507332
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+369 	MATCHING STATES
+	-->  IRS Computers, Thrissur, Kerala, India
+	-->  IRS Computers & Communications Pvt.Ltd, Thrissur, Kerala, India
+	-->  IRS Computers & Communications Pvt.Ltd, Naduvilal Madhom Road, Naikkanal, Thrissur, Kerala, India
+	-->  I.R.S. Computers & Communications Pvt. Ltd., Mahatma Gandhi Road, Thrissur, Kerala, India
+	-->  IRS Computers, Thrissur Kanjani Vadanappally Road, Kanjany, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2425560']
+	||   > NEW :  4872212121
+	||   > NEW :  4872327560
+	||   > NEW :  4872327873
+	||   > NEW :  4872327560
+	||   > NEW :  
+	NO PHONE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  IRS Computers, Thrissur, Kerala, India
+	-->  IRS Computers & Communications Pvt.Ltd, Thrissur, Kerala, India
+	-->  IRS Computers & Communications Pvt.Ltd, Naduvilal Madhom Road, Naikkanal, Thrissur, Kerala, India
+	-->  I.R.S. Computers & Communications Pvt. Ltd., Mahatma Gandhi Road, Thrissur, Kerala, India
+	-->  IRS Computers, Thrissur Kanjani Vadanappally Road, Kanjany, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2425560']
+	||   > NEW :  4872212121
+	||   > NEW :  4872327560
+	||   > NEW :  4872327873
+	||   > NEW :  4872327560
+	||   > NEW :  
+	NO PHONE MATCHED
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  IRS Computers, Thrissur, Kerala, India
+	-->  IRS Computers & Communications Pvt.Ltd, Thrissur, Kerala, India
+	-->  IRS Computers & Communications Pvt.Ltd, Naduvilal Madhom Road, Naikkanal, Thrissur, Kerala, India
+	-->  I.R.S. Computers & Communications Pvt. Ltd., Mahatma Gandhi Road, Thrissur, Kerala, India
+	-->  IRS Computers, Thrissur Kanjani Vadanappally Road, Kanjany, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2425560']
+	||   > NEW :  4872212121
+	||   > NEW :  4872327560
+	||   > NEW :  4872327873
+	||   > NEW :  4872327560
+	||   > NEW :  
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+370 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+371 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+372 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2890811']
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+373 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+374 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2273489']
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+375 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Infonet Computers, Thrissur, Kerala, India
+	-->  Infonet Computers, State Highway 39, Perumpilavu, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2635677']
+	||   > NEW :  4872339189
+	||   > NEW :  
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2635677']
+	||   > NEW :  
+	||   > NEW :  4872630339
+	NO PHONE MATCHED
+	NOT VERIFIED
+376 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Infotech Computers, State Highway 61, Alur, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+377 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2361971']
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  4872363608
+	||   > NEW :  4872360308
+	NO PHONE MATCHED
+	NOT VERIFIED
+378 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2380407']
+	||   > NEW :  
+	||   > NEW :  1800112011
+	||   > NEW :  
+	||   > NEW :  4872379000
+	||   > NEW :  9387517719
+	NO PHONE MATCHED
+	NOT VERIFIED
+379 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  IRS Computer Classes, Thriprayar, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+380 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  IRS Computers, Thrissur, Kerala, India
+	-->  IRS Computers, Mahatma Gandhi Road, Thrissur, Kerala, India
+	-->  IRS Computers, Thrissur Kanjani Vadanappally Road, Kanjany, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2643927']
+	||   > NEW :  4872212121
+	||   > NEW :  4872324560
+	||   > NEW :  
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2643927']
+	||   > NEW :  
+	||   > NEW :  4872630339
+	NO PHONE MATCHED
+	NOT VERIFIED
+381 	# CHANGING QUERY(1)
+	-->  IRS Computers, Thrissur Kanjani Vadanappally Road, Kanjany, Kerala 680612, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+382 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+383 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2342161']
+	||   > NEW :  4872342250
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+384 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+385 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  National Computers, Irinjalakuda, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+386 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+387 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2636510']
+	||   > NEW :  
+	||   > NEW :  4872630339
+	NO PHONE MATCHED
+	NOT VERIFIED
+388 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2345118']
+	||   > NEW :  4872342230
+	NO PHONE MATCHED
+	NOT VERIFIED
+389 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2825407']
+	||   > NEW :  4802825228
+	||   > NEW :  4802826603
+	||   > NEW :  8111835000
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+390 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2397151']
+	||   > NEW :  4872391236
+	NO PHONE MATCHED
+	NOT VERIFIED
+391 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  NIIT Thrissur Centre, Kodungallur - Shornur Road, Naikkanal, Thrissur, Kerala, India
+	-->  NIIT-Irinjalakuda, Irinjalakuda, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2708445']
+	||   > NEW :  4873242197
+	||   > NEW :  4802828228
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2708445']
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  4802702419
+	||   > NEW :  9495246829
+	||   > NEW :  9562138080
+	NO PHONE MATCHED
+	NOT VERIFIED
+392 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  NIIT Thrissur Centre, Kodungallur - Shornur Road, Naikkanal, Thrissur, Kerala, India
+	-->  NIIT-Irinjalakuda, Irinjalakuda, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2551140']
+	||   > NEW :  4873242197
+	||   > NEW :  4802828228
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2551140']
+	||   > NEW :  4872552830
+	||   > NEW :  
+	||   > NEW :  9746116644
+	||   > NEW :  9947530052
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+393 	MATCHING STATES
+	-->  NIIT Thrissur Centre, Kodungallur - Shornur Road, Naikkanal, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+394 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  NIIT Thrissur Centre, Kodungallur - Shornur Road, Naikkanal, Thrissur, Kerala, India
+	-->  NIIT-Irinjalakuda, Irinjalakuda, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2391825']
+	||   > NEW :  4873242197
+	||   > NEW :  4802828228
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2391825']
+	||   > NEW :  4872391236
+	NO PHONE MATCHED
+	NOT VERIFIED
+395 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2754962']
+	||   > NEW :  4802751358
+	NO PHONE MATCHED
+	NOT VERIFIED
+396 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2821533']
+	||   > NEW :  4802825228
+	||   > NEW :  4802826603
+	||   > NEW :  8111835000
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+397 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2392670']
+	||   > NEW :  4872391236
+	NO PHONE MATCHED
+	NOT VERIFIED
+398 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2753708']
+	||   > NEW :  4802751358
+	NO PHONE MATCHED
+	NOT VERIFIED
+399 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2641310']
+	||   > NEW :  
+	||   > NEW :  4872630339
+	NO PHONE MATCHED
+	NOT VERIFIED
+400 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2509623']
+	||   > NEW :  
+	||   > NEW :  9037660441
+	||   > NEW :  4872507332
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+401 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Penta Software House, Korappath Lane, Thrissur, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+402 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2320533']
+	||   > NEW :  
+	||   > NEW :  4872630339
+	NO PHONE MATCHED
+	NOT VERIFIED
+403 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+404 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2422710']
+	||   > NEW :  
+	||   > NEW :  4872440251
+	||   > NEW :  9847921036
+	NO PHONE MATCHED
+	NOT VERIFIED
+405 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+406 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2633070']
+	||   > NEW :  
+	||   > NEW :  4872630339
+	NO PHONE MATCHED
+	NOT VERIFIED
+407 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Southern Computers, Kodungallur - Shornur Road, Thekkinkadu Maidan, Thrissur, Kerala, India
+	-->  Southern Computers, Naikkanal, Thrissur, Kerala, India
+	-->  Southern Computers, Mahatma Gandhi Road, Poothole, Thrissur, Kerala, India
+	-->  Southern Computers, Fathima Nagar, Mahatma Nagar, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2351681']
+	||   > NEW :  4872421719
+	||   > NEW :  4872421719
+	||   > NEW :  4872389172
+	||   > NEW :  
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2351681']
+	||   > NEW :  
+	||   > NEW :  4872459420
+	||   > NEW :  
+	||   > NEW :  4872422020
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+408 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2700329']
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  4802702419
+	||   > NEW :  9495246829
+	||   > NEW :  9562138080
+	NO PHONE MATCHED
+	NOT VERIFIED
+409 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2502791']
+	||   > NEW :  
+	||   > NEW :  9037660441
+	||   > NEW :  4872507332
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+410 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2811456']
+	||   > NEW :  4802825228
+	||   > NEW :  4802826603
+	||   > NEW :  8111835000
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+411 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+412 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+413 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 2394383']
+	||   > NEW :  4872391236
+	NO PHONE MATCHED
+	NOT VERIFIED
+414 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+415 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+416 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2879919']
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  4802877590
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+417 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+418 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2821763']
+	||   > NEW :  4802825228
+	||   > NEW :  4802826603
+	||   > NEW :  8111835000
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+419 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2825836']
+	||   > NEW :  4802825228
+	||   > NEW :  4802826603
+	||   > NEW :  8111835000
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+420 	# CHANGING QUERY(1)
+	-->  Wizard Computers, Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+421 	MATCHING STATES
+	-->  Zenith Hospital, Malad West, Mumbai, Maharashtra, India
+	-->  Zenith Institute of Business Management, Malad West, Mumbai, Maharashtra, India
+	-->  Zenith Irrigation Pvt Ltd, New Link Road, Malad West, Mumbai, Maharashtra, India
+	-->  Zenith Production, Malad West, Mumbai, Maharashtra, India
+	-->  Zenith Medicals, Malad West, Mumbai, Maharashtra, India
+	NO STATE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2891433']
+	||   > NEW :  2228837861
+	||   > NEW :  2265200453
+	||   > NEW :  9321012302
+	||   > NEW :  9820560449
+	||   > NEW :  2228837861
+	NO PHONE MATCHED
+	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  zenith classes, RC Bishop House Road, Keerankulangara, Thrissur, Kerala, India
+	-->  Zenith Classes - Medical & Engineering Coaching Centre, Trichur-Palghat Road, Thrissur, Kerala, India
+	-->  zenith classes, Sreenagar Colony, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2891433']
+	||   > NEW :  
+	||   > NEW :  7293915785
+	||   > NEW :  
+	NO PHONE MATCHED
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2891433']
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  
+	NO PHONE MATCHED
+	NOT VERIFIED
+422 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2706898']
+	||   > NEW :  
+	||   > NEW :  
+	||   > NEW :  4802702419
+	||   > NEW :  9495246829
+	||   > NEW :  9562138080
+	NO PHONE MATCHED
+	NOT VERIFIED
+423 	# CHANGING QUERY(1)
+	-->  Bootnet IT Solutions, Round North, Thrissur, Kerala 680001, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+424 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+425 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0480 - 2804290']
+	||   > NEW :  4802800800
+	||   > NEW :  4802802101
+	||   > NEW :  8547851317
+	NO PHONE MATCHED
+	NOT VERIFIED
+426 	MATCHING STATES
+	-->  Cadd Centre, Kodungallur - Shornur Road, Irinjalakuda, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+427 	MATCHING STATES
+	-->  CADD CENTRE, Kunnamkulam, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+428 	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Trichur, Kerala, India
+	-->  CADD CENTRE, CITY CENTRE, Swaraj Round West, Naikkanal, Trichur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Trichur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Trichur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Trichur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 3290913', ' 0487 - 2424481']
+	||   > NEW :  4872424481
+	|| PHONE NUMBERS MATCHED
+	RES:  VERIFIED
+429 	MATCHING STATES
+	-->  CADD CENTRE, Kuruppam Road, Trichur, Kerala, India
+	-->  CADD CENTRE, CITY CENTRE, Swaraj Round West, Naikkanal, Trichur, Kerala, India
+	-->  CADD CENTRE, Kunnamkulam, Trichur, Kerala, India
+	-->  CADD CENTRE, Chalakudy, Trichur, Kerala, India
+	-->  CADD CENTRE, Pettumma, Kodungallur, Trichur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 3243890']
+	||   > NEW :  4872424481
+	||   > NEW :  8606150011
+	||   > NEW :  4885320039
+	||   > NEW :  9744555159
+	||   > NEW :  4803296727
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://caddcentre.ws
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.uitgroupindia.com/
+	||   > NEW :  http://www.caddcentre.co.in
+	||   > NEW :  https://www.caddcentre.ws
+	||   > NEW :  http://www.caddcentre.ws/
+	WEBSITE MATCHED
+	RES:  VERIFIED
+430 	# CHANGING QUERY(2)
+	NOT VERIFIED
+431 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+432 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	MATCHING STATES
+	-->  Rambus Network Academy, Thrissur, Kerala, India
+	-->  Rambus Network Academy, Chalakudy, Thrissur, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 3298482', ' 9526333131']
+	||   > NEW :  9526333131
+	|| PHONE NUMBERS MATCHED
+	RES:  VERIFIED
+433 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+434 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+435 	MATCHING STATES
+	-->  Soften Technologies, Kadavanthra, Kochi, Kerala, India
+	-->  Soften Technologies, Kadavanthra, Ernakulam, Kerala, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['8129701739', ' 8129199511']
+	||   > NEW :  4844037036
+	||   > NEW :  4844037036
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://softentec.com
+	||   > NEW :  http://www.softentec.com/
+	||   > NEW :  http://www.softentec.com/
+	MULTIPLE MATCHED
+	# CHANGING QUERY(1)
+	MATCHING STATES
+	-->  Soften Technologies, Kochi, Kerala 682020, India
+	-->  Soften Technologies, Kadavanthra, Ernakulam, Kerala 682020, India
+	MULTIPLE MATCHED
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['8129701739', ' 8129199511']
+	||   > NEW :  4844037036
+	||   > NEW :  4844037036
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://softentec.com
+	||   > NEW :  http://www.softentec.com/
+	||   > NEW :  http://www.softentec.com/
+	MULTIPLE MATCHED
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+436 	# CHANGING QUERY(1)
+	-->  Kairali Ford, Thrissur, Kerala 680655, India
+	PINCODE PRESENCE IN PREDICTION CONFIRMED
+	RES:  VERIFIED
+437 	# CHANGING QUERY(2)
+	NOT VERIFIED
+438 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	MATCHING PHONE NUMBERS
+	|| ORIGINAL :  ['0487 - 3101922', ' 8590922922']
+	||   > NEW :  4872424192
+	NO PHONE MATCHED
+	MATCHING WEBSITE
+	|| ORIGINAL :  http://livewireindia.com
+	||   > NEW :  http://www.keralapolice.org/
+	NO WEBSITE MATCHED
+	NOT VERIFIED
+439 	MATCHING STATES
+	-->  I-Net Infotech, Paramara Road, Kacheripady, Ernakulam, Kerala, India
+	STATE MATCHED
+	RES:  VERIFIED
+440 	# CHANGING QUERY(1)
+	# CHANGING QUERY(2)
+	# CHANGING QUERY(3)
+	NOT VERIFIED
+####################
+VERIFIED     :  123
+NOT VERIFIED :  316
+####################
+
+UPDAING ADDRESS
+ADDRESS UPDATED FOR ROW :  3
+ADDRESS UPDATED FOR ROW :  5
+ADDRESS UPDATED FOR ROW :  7
+ADDRESS UPDATED FOR ROW :  8
+ADDRESS UPDATED FOR ROW :  11
+ADDRESS UPDATED FOR ROW :  12
+ADDRESS UPDATED FOR ROW :  13
+ADDRESS UPDATED FOR ROW :  14
+ADDRESS UPDATED FOR ROW :  15
+ADDRESS UPDATED FOR ROW :  20
+ADDRESS UPDATED FOR ROW :  21
+ADDRESS UPDATED FOR ROW :  25
+ADDRESS UPDATED FOR ROW :  29
+ADDRESS UPDATED FOR ROW :  37
+ADDRESS UPDATED FOR ROW :  38
+ADDRESS UPDATED FOR ROW :  43
+ADDRESS UPDATED FOR ROW :  44
+ADDRESS UPDATED FOR ROW :  46
+ADDRESS UPDATED FOR ROW :  47
+ADDRESS UPDATED FOR ROW :  49
+ADDRESS UPDATED FOR ROW :  51
+ADDRESS UPDATED FOR ROW :  52
+ADDRESS UPDATED FOR ROW :  55
+ADDRESS UPDATED FOR ROW :  60
+ADDRESS UPDATED FOR ROW :  64
+ADDRESS UPDATED FOR ROW :  65
+ADDRESS UPDATED FOR ROW :  72
+ADDRESS UPDATED FOR ROW :  73
+ADDRESS UPDATED FOR ROW :  78
+ADDRESS UPDATED FOR ROW :  83
+ADDRESS UPDATED FOR ROW :  84
+ADDRESS UPDATED FOR ROW :  89
+ADDRESS UPDATED FOR ROW :  90
+ADDRESS UPDATED FOR ROW :  91
+ADDRESS UPDATED FOR ROW :  93
+ADDRESS UPDATED FOR ROW :  94
+ADDRESS UPDATED FOR ROW :  97
+ADDRESS UPDATED FOR ROW :  100
+ADDRESS UPDATED FOR ROW :  103
+ADDRESS UPDATED FOR ROW :  104
+ADDRESS UPDATED FOR ROW :  105
+ADDRESS UPDATED FOR ROW :  107
+ADDRESS UPDATED FOR ROW :  117
+ADDRESS UPDATED FOR ROW :  119
+ADDRESS UPDATED FOR ROW :  120
+ADDRESS UPDATED FOR ROW :  122
+ADDRESS UPDATED FOR ROW :  124
+ADDRESS UPDATED FOR ROW :  125
+ADDRESS UPDATED FOR ROW :  128
+ADDRESS UPDATED FOR ROW :  129
+ADDRESS UPDATED FOR ROW :  134
+ADDRESS UPDATED FOR ROW :  135
+ADDRESS UPDATED FOR ROW :  148
+ADDRESS UPDATED FOR ROW :  149
+ADDRESS UPDATED FOR ROW :  150
+ADDRESS UPDATED FOR ROW :  151
+ADDRESS UPDATED FOR ROW :  153
+ADDRESS UPDATED FOR ROW :  154
+ADDRESS UPDATED FOR ROW :  157
+ADDRESS UPDATED FOR ROW :  158
+ADDRESS UPDATED FOR ROW :  159
+ADDRESS UPDATED FOR ROW :  168
+ADDRESS UPDATED FOR ROW :  170
+ADDRESS UPDATED FOR ROW :  171
+ADDRESS UPDATED FOR ROW :  179
+ADDRESS UPDATED FOR ROW :  186
+ADDRESS UPDATED FOR ROW :  191
+ADDRESS UPDATED FOR ROW :  192
+ADDRESS UPDATED FOR ROW :  194
+ADDRESS UPDATED FOR ROW :  195
+ADDRESS UPDATED FOR ROW :  196
+ADDRESS UPDATED FOR ROW :  199
+ADDRESS UPDATED FOR ROW :  201
+ADDRESS UPDATED FOR ROW :  202
+ADDRESS UPDATED FOR ROW :  205
+ADDRESS UPDATED FOR ROW :  206
+ADDRESS UPDATED FOR ROW :  207
+ADDRESS UPDATED FOR ROW :  215
+ADDRESS UPDATED FOR ROW :  217
+ADDRESS UPDATED FOR ROW :  218
+ADDRESS UPDATED FOR ROW :  224
+ADDRESS UPDATED FOR ROW :  225
+ADDRESS UPDATED FOR ROW :  228
+ADDRESS UPDATED FOR ROW :  234
+ADDRESS UPDATED FOR ROW :  238
+ADDRESS UPDATED FOR ROW :  242
+ADDRESS UPDATED FOR ROW :  243
+ADDRESS UPDATED FOR ROW :  244
+ADDRESS UPDATED FOR ROW :  245
+ADDRESS UPDATED FOR ROW :  261
+ADDRESS UPDATED FOR ROW :  263
+ADDRESS UPDATED FOR ROW :  265
+ADDRESS UPDATED FOR ROW :  267
+ADDRESS UPDATED FOR ROW :  278
+ADDRESS UPDATED FOR ROW :  279
+ADDRESS UPDATED FOR ROW :  285
+ADDRESS UPDATED FOR ROW :  286
+ADDRESS UPDATED FOR ROW :  287
+ADDRESS UPDATED FOR ROW :  290
+ADDRESS UPDATED FOR ROW :  294
+ADDRESS UPDATED FOR ROW :  296
+ADDRESS UPDATED FOR ROW :  300
+ADDRESS UPDATED FOR ROW :  305
+ADDRESS UPDATED FOR ROW :  306
+ADDRESS UPDATED FOR ROW :  313
+ADDRESS UPDATED FOR ROW :  316
+ADDRESS UPDATED FOR ROW :  317
+ADDRESS UPDATED FOR ROW :  345
+ADDRESS UPDATED FOR ROW :  376
+ADDRESS UPDATED FOR ROW :  379
+ADDRESS UPDATED FOR ROW :  381
+ADDRESS UPDATED FOR ROW :  385
+ADDRESS UPDATED FOR ROW :  393
+ADDRESS UPDATED FOR ROW :  401
+ADDRESS UPDATED FOR ROW :  420
+ADDRESS UPDATED FOR ROW :  423
+ADDRESS UPDATED FOR ROW :  426
+ADDRESS UPDATED FOR ROW :  427
+ADDRESS UPDATED FOR ROW :  428
+ADDRESS UPDATED FOR ROW :  429
+ADDRESS UPDATED FOR ROW :  432
+ADDRESS UPDATED FOR ROW :  436
+ADDRESS UPDATED FOR ROW :  439
